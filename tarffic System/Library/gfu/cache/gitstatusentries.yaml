@@ -1,0 +1,2839 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-01-27T12:50:32.231+02:00
+  initializedAtString: 2021-01-27T12:50:30.540+02:00
+  entries:
+  - path: tarffic System\Assets\New Terrain 1.asset
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\New
+      Terrain 1.asset
+    projectPath: Assets\New Terrain 1.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\New Terrain 1.asset.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\New
+      Terrain 1.asset.meta
+    projectPath: Assets\New Terrain 1.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\New Terrain.asset
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\New
+      Terrain.asset
+    projectPath: Assets\New Terrain.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\New Terrain.asset.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\New
+      Terrain.asset.meta
+    projectPath: Assets\New Terrain.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool.meta
+    projectPath: Assets\RoadTool.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Editor.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Editor.meta
+    projectPath: Assets\RoadTool\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Editor\RoadTool.cs
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Editor\RoadTool.cs
+    projectPath: Assets\RoadTool\Editor\RoadTool.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Editor\RoadTool.cs.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Editor\RoadTool.cs.meta
+    projectPath: Assets\RoadTool\Editor\RoadTool.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example.meta
+    projectPath: Assets\RoadTool\Example.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Demo.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Demo.meta
+    projectPath: Assets\RoadTool\Example\Demo.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Demo.unity
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Demo.unity
+    projectPath: Assets\RoadTool\Example\Demo.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Demo.unity.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Demo.unity.meta
+    projectPath: Assets\RoadTool\Example\Demo.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Demo\LightmapFar-0.exr
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Demo\LightmapFar-0.exr
+    projectPath: Assets\RoadTool\Example\Demo\LightmapFar-0.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Demo\LightmapFar-0.exr.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Demo\LightmapFar-0.exr.meta
+    projectPath: Assets\RoadTool\Example\Demo\LightmapFar-0.exr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Demo\LightmapFar-1.exr
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Demo\LightmapFar-1.exr
+    projectPath: Assets\RoadTool\Example\Demo\LightmapFar-1.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Demo\LightmapFar-1.exr.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Demo\LightmapFar-1.exr.meta
+    projectPath: Assets\RoadTool\Example\Demo\LightmapFar-1.exr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Demo\LightmapNear-0.exr
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Demo\LightmapNear-0.exr
+    projectPath: Assets\RoadTool\Example\Demo\LightmapNear-0.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Demo\LightmapNear-0.exr.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Demo\LightmapNear-0.exr.meta
+    projectPath: Assets\RoadTool\Example\Demo\LightmapNear-0.exr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Demo\LightmapNear-1.exr
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Demo\LightmapNear-1.exr
+    projectPath: Assets\RoadTool\Example\Demo\LightmapNear-1.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Demo\LightmapNear-1.exr.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Demo\LightmapNear-1.exr.meta
+    projectPath: Assets\RoadTool\Example\Demo\LightmapNear-1.exr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Model.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Model.meta
+    projectPath: Assets\RoadTool\Example\Model.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Model\pb8420.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Model\pb8420.meta
+    projectPath: Assets\RoadTool\Example\Model\pb8420.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Model\pb8420\GridBox_Default.tga
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Model\pb8420\GridBox_Default.tga
+    projectPath: Assets\RoadTool\Example\Model\pb8420\GridBox_Default.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Model\pb8420\GridBox_Default.tga.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Model\pb8420\GridBox_Default.tga.meta
+    projectPath: Assets\RoadTool\Example\Model\pb8420\GridBox_Default.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Model\pb8420\Materials.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Model\pb8420\Materials.meta
+    projectPath: Assets\RoadTool\Example\Model\pb8420\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Model\pb8420\Materials\Default.mat
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Model\pb8420\Materials\Default.mat
+    projectPath: Assets\RoadTool\Example\Model\pb8420\Materials\Default.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Model\pb8420\Materials\Default.mat.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Model\pb8420\Materials\Default.mat.meta
+    projectPath: Assets\RoadTool\Example\Model\pb8420\Materials\Default.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Model\pb8420\Materials\GridBox_Default.mat
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Model\pb8420\Materials\GridBox_Default.mat
+    projectPath: Assets\RoadTool\Example\Model\pb8420\Materials\GridBox_Default.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Model\pb8420\Materials\GridBox_Default.mat.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Model\pb8420\Materials\GridBox_Default.mat.meta
+    projectPath: Assets\RoadTool\Example\Model\pb8420\Materials\GridBox_Default.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Model\pb8420\pb8420.mtl
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Model\pb8420\pb8420.mtl
+    projectPath: Assets\RoadTool\Example\Model\pb8420\pb8420.mtl
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Model\pb8420\pb8420.mtl.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Model\pb8420\pb8420.mtl.meta
+    projectPath: Assets\RoadTool\Example\Model\pb8420\pb8420.mtl.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Model\pb8420\pb8420.obj
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Model\pb8420\pb8420.obj
+    projectPath: Assets\RoadTool\Example\Model\pb8420\pb8420.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Model\pb8420\pb8420.obj.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Model\pb8420\pb8420.obj.meta
+    projectPath: Assets\RoadTool\Example\Model\pb8420\pb8420.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets.meta
+    projectPath: Assets\RoadTool\Example\Standard Assets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes.meta
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\_skybox
+      info.txt
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\_skybox info.txt
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\_skybox info.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\_skybox
+      info.txt.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\_skybox info.txt.meta
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\_skybox info.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\StarryNight
+      Skybox.mat
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\StarryNight Skybox.mat
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\StarryNight Skybox.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\StarryNight
+      Skybox.mat.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\StarryNight Skybox.mat.meta
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\StarryNight Skybox.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\Textures.meta
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\Textures\StarryNight.meta
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_back.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\Textures\StarryNight\StarryNight_back.tif
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_back.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_back.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\Textures\StarryNight\StarryNight_back.tif.meta
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_back.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_down.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\Textures\StarryNight\StarryNight_down.tif
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_down.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_down.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\Textures\StarryNight\StarryNight_down.tif.meta
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_down.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_front.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\Textures\StarryNight\StarryNight_front.tif
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_front.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_front.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\Textures\StarryNight\StarryNight_front.tif.meta
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_front.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_left.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\Textures\StarryNight\StarryNight_left.tif
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_left.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_left.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\Textures\StarryNight\StarryNight_left.tif.meta
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_left.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_right.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\Textures\StarryNight\StarryNight_right.tif
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_right.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_right.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\Textures\StarryNight\StarryNight_right.tif.meta
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_right.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_up.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\Textures\StarryNight\StarryNight_up.tif
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_up.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_up.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Example\Standard
+      Assets\Skyboxes\Textures\StarryNight\StarryNight_up.tif.meta
+    projectPath: Assets\RoadTool\Example\Standard Assets\Skyboxes\Textures\StarryNight\StarryNight_up.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\README.txt
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\README.txt
+    projectPath: Assets\RoadTool\README.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\README.txt.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\README.txt.meta
+    projectPath: Assets\RoadTool\README.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Scripts.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Scripts.meta
+    projectPath: Assets\RoadTool\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Scripts\Road.cs
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Scripts\Road.cs
+    projectPath: Assets\RoadTool\Scripts\Road.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Scripts\Road.cs.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Scripts\Road.cs.meta
+    projectPath: Assets\RoadTool\Scripts\Road.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Scripts\RoadMath.cs
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Scripts\RoadMath.cs
+    projectPath: Assets\RoadTool\Scripts\RoadMath.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Scripts\RoadMath.cs.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Scripts\RoadMath.cs.meta
+    projectPath: Assets\RoadTool\Scripts\RoadMath.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Scripts\RoadUtils.cs
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Scripts\RoadUtils.cs
+    projectPath: Assets\RoadTool\Scripts\RoadUtils.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Scripts\RoadUtils.cs.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Scripts\RoadUtils.cs.meta
+    projectPath: Assets\RoadTool\Scripts\RoadUtils.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Texture.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Texture.meta
+    projectPath: Assets\RoadTool\Texture.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Texture\Concrete.jpg
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Texture\Concrete.jpg
+    projectPath: Assets\RoadTool\Texture\Concrete.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Texture\Concrete.jpg.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Texture\Concrete.jpg.meta
+    projectPath: Assets\RoadTool\Texture\Concrete.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Texture\Materials.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Texture\Materials.meta
+    projectPath: Assets\RoadTool\Texture\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Texture\Materials\Road.mat
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Texture\Materials\Road.mat
+    projectPath: Assets\RoadTool\Texture\Materials\Road.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Texture\Materials\Road.mat.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Texture\Materials\Road.mat.meta
+    projectPath: Assets\RoadTool\Texture\Materials\Road.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Texture\Materials\Road_Realistic.mat
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Texture\Materials\Road_Realistic.mat
+    projectPath: Assets\RoadTool\Texture\Materials\Road_Realistic.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Texture\Materials\Road_Realistic.mat.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Texture\Materials\Road_Realistic.mat.meta
+    projectPath: Assets\RoadTool\Texture\Materials\Road_Realistic.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Texture\Road.tga
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Texture\Road.tga
+    projectPath: Assets\RoadTool\Texture\Road.tga
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Texture\Road.tga.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Texture\Road.tga.meta
+    projectPath: Assets\RoadTool\Texture\Road.tga.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Texture\Road_Realistic.jpg
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Texture\Road_Realistic.jpg
+    projectPath: Assets\RoadTool\Texture\Road_Realistic.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Texture\Road_Realistic.jpg.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Texture\Road_Realistic.jpg.meta
+    projectPath: Assets\RoadTool\Texture\Road_Realistic.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Texture\Texture Credits.txt
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Texture\Texture
+      Credits.txt
+    projectPath: Assets\RoadTool\Texture\Texture Credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\RoadTool\Texture\Texture Credits.txt.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\RoadTool\Texture\Texture
+      Credits.txt.meta
+    projectPath: Assets\RoadTool\Texture\Texture Credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack.meta
+    projectPath: Assets\Simple Vehicle Pack.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Demo_scene.unity
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Demo_scene.unity
+    projectPath: Assets\Simple Vehicle Pack\Demo_scene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Demo_scene.unity.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Demo_scene.unity.meta
+    projectPath: Assets\Simple Vehicle Pack\Demo_scene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials.meta
+    projectPath: Assets\Simple Vehicle Pack\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Bus_1.mat
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Bus_1.mat
+    projectPath: Assets\Simple Vehicle Pack\Materials\Bus_1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Bus_1.mat.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Bus_1.mat.meta
+    projectPath: Assets\Simple Vehicle Pack\Materials\Bus_1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Bus_2.mat
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Bus_2.mat
+    projectPath: Assets\Simple Vehicle Pack\Materials\Bus_2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Bus_2.mat.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Bus_2.mat.meta
+    projectPath: Assets\Simple Vehicle Pack\Materials\Bus_2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Cars_1.mat
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Cars_1.mat
+    projectPath: Assets\Simple Vehicle Pack\Materials\Cars_1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Cars_1.mat.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Cars_1.mat.meta
+    projectPath: Assets\Simple Vehicle Pack\Materials\Cars_1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Cars_2.mat
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Cars_2.mat
+    projectPath: Assets\Simple Vehicle Pack\Materials\Cars_2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Cars_2.mat.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Cars_2.mat.meta
+    projectPath: Assets\Simple Vehicle Pack\Materials\Cars_2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Mobile.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Mobile.meta
+    projectPath: Assets\Simple Vehicle Pack\Materials\Mobile.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Mobile\Bus_1.mat
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Mobile\Bus_1.mat
+    projectPath: Assets\Simple Vehicle Pack\Materials\Mobile\Bus_1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Mobile\Bus_1.mat.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Mobile\Bus_1.mat.meta
+    projectPath: Assets\Simple Vehicle Pack\Materials\Mobile\Bus_1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Mobile\Bus_2.mat
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Mobile\Bus_2.mat
+    projectPath: Assets\Simple Vehicle Pack\Materials\Mobile\Bus_2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Mobile\Bus_2.mat.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Mobile\Bus_2.mat.meta
+    projectPath: Assets\Simple Vehicle Pack\Materials\Mobile\Bus_2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Mobile\Cars_1.mat
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Mobile\Cars_1.mat
+    projectPath: Assets\Simple Vehicle Pack\Materials\Mobile\Cars_1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Mobile\Cars_1.mat.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Mobile\Cars_1.mat.meta
+    projectPath: Assets\Simple Vehicle Pack\Materials\Mobile\Cars_1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Mobile\Cars_2.mat
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Mobile\Cars_2.mat
+    projectPath: Assets\Simple Vehicle Pack\Materials\Mobile\Cars_2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Mobile\Cars_2.mat.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Mobile\Cars_2.mat.meta
+    projectPath: Assets\Simple Vehicle Pack\Materials\Mobile\Cars_2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Mobile\Road.mat
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Mobile\Road.mat
+    projectPath: Assets\Simple Vehicle Pack\Materials\Mobile\Road.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Materials\Mobile\Road.mat.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Materials\Mobile\Road.mat.meta
+    projectPath: Assets\Simple Vehicle Pack\Materials\Mobile\Road.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Models.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Models.meta
+    projectPath: Assets\Simple Vehicle Pack\Models.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Models\bus.FBX
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Models\bus.FBX
+    projectPath: Assets\Simple Vehicle Pack\Models\bus.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Models\bus.FBX.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Models\bus.FBX.meta
+    projectPath: Assets\Simple Vehicle Pack\Models\bus.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Models\car_1.FBX
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Models\car_1.FBX
+    projectPath: Assets\Simple Vehicle Pack\Models\car_1.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Models\car_1.FBX.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Models\car_1.FBX.meta
+    projectPath: Assets\Simple Vehicle Pack\Models\car_1.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Models\car_2.FBX
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Models\car_2.FBX
+    projectPath: Assets\Simple Vehicle Pack\Models\car_2.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Models\car_2.FBX.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Models\car_2.FBX.meta
+    projectPath: Assets\Simple Vehicle Pack\Models\car_2.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Models\Materials.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Models\Materials.meta
+    projectPath: Assets\Simple Vehicle Pack\Models\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Models\Materials\Material #23.mat
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Models\Materials\Material #23.mat
+    projectPath: Assets\Simple Vehicle Pack\Models\Materials\Material #23.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Models\Materials\Material #23.mat.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Models\Materials\Material #23.mat.meta
+    projectPath: Assets\Simple Vehicle Pack\Models\Materials\Material #23.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Models\Materials\No Name.mat
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Models\Materials\No Name.mat
+    projectPath: Assets\Simple Vehicle Pack\Models\Materials\No Name.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Models\Materials\No Name.mat.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Models\Materials\No Name.mat.meta
+    projectPath: Assets\Simple Vehicle Pack\Models\Materials\No Name.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Models\police_car.FBX
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Models\police_car.FBX
+    projectPath: Assets\Simple Vehicle Pack\Models\police_car.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Models\police_car.FBX.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Models\police_car.FBX.meta
+    projectPath: Assets\Simple Vehicle Pack\Models\police_car.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Models\road_4.FBX
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Models\road_4.FBX
+    projectPath: Assets\Simple Vehicle Pack\Models\road_4.FBX
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Models\road_4.FBX.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Models\road_4.FBX.meta
+    projectPath: Assets\Simple Vehicle Pack\Models\road_4.FBX.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Bus_1.prefab
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Bus_1.prefab
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Bus_1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Bus_1.prefab.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Bus_1.prefab.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Bus_1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Bus_2.prefab
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Bus_2.prefab
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Bus_2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Bus_2.prefab.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Bus_2.prefab.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Bus_2.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Car_1.prefab
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Car_1.prefab
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Car_1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Car_1.prefab.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Car_1.prefab.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Car_1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Car_2.prefab
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Car_2.prefab
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Car_2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Car_2.prefab.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Car_2.prefab.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Car_2.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Car_3.prefab
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Car_3.prefab
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Car_3.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Car_3.prefab.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Car_3.prefab.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Car_3.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Car_4.prefab
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Car_4.prefab
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Car_4.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Car_4.prefab.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Car_4.prefab.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Car_4.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\Bus_1.prefab
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\Bus_1.prefab
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\Bus_1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\Bus_1.prefab.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\Bus_1.prefab.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\Bus_1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\Bus_2.prefab
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\Bus_2.prefab
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\Bus_2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\Bus_2.prefab.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\Bus_2.prefab.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\Bus_2.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\Car_1.prefab
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\Car_1.prefab
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\Car_1.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\Car_1.prefab.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\Car_1.prefab.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\Car_1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\Car_2.prefab
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\Car_2.prefab
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\Car_2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\Car_2.prefab.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\Car_2.prefab.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\Car_2.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\Car_3.prefab
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\Car_3.prefab
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\Car_3.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\Car_3.prefab.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\Car_3.prefab.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\Car_3.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\Car_4.prefab
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\Car_4.prefab
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\Car_4.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\Car_4.prefab.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\Car_4.prefab.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\Car_4.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\Police_car.prefab
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\Police_car.prefab
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\Police_car.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\Police_car.prefab.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\Police_car.prefab.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\Police_car.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\road_4.prefab
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\road_4.prefab
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\road_4.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\road_4.prefab.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\road_4.prefab.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\road_4.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\Taxi.prefab
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\Taxi.prefab
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\Taxi.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Mobile\Taxi.prefab.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Mobile\Taxi.prefab.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Mobile\Taxi.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Police_car.prefab
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Police_car.prefab
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Police_car.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Police_car.prefab.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Police_car.prefab.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Police_car.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Taxi.prefab
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Taxi.prefab
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Taxi.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Prefabs\Taxi.prefab.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Prefabs\Taxi.prefab.meta
+    projectPath: Assets\Simple Vehicle Pack\Prefabs\Taxi.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures.meta
+    projectPath: Assets\Simple Vehicle Pack\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\bus_albedo.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\bus_albedo.tif
+    projectPath: Assets\Simple Vehicle Pack\Textures\bus_albedo.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\bus_albedo.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\bus_albedo.tif.meta
+    projectPath: Assets\Simple Vehicle Pack\Textures\bus_albedo.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\bus_albedo_2.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\bus_albedo_2.tif
+    projectPath: Assets\Simple Vehicle Pack\Textures\bus_albedo_2.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\bus_albedo_2.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\bus_albedo_2.tif.meta
+    projectPath: Assets\Simple Vehicle Pack\Textures\bus_albedo_2.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\bus_AO.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\bus_AO.tif
+    projectPath: Assets\Simple Vehicle Pack\Textures\bus_AO.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\bus_AO.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\bus_AO.tif.meta
+    projectPath: Assets\Simple Vehicle Pack\Textures\bus_AO.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\bus_metallic.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\bus_metallic.tif
+    projectPath: Assets\Simple Vehicle Pack\Textures\bus_metallic.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\bus_metallic.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\bus_metallic.tif.meta
+    projectPath: Assets\Simple Vehicle Pack\Textures\bus_metallic.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\cars_albedo.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\cars_albedo.tif
+    projectPath: Assets\Simple Vehicle Pack\Textures\cars_albedo.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\cars_albedo.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\cars_albedo.tif.meta
+    projectPath: Assets\Simple Vehicle Pack\Textures\cars_albedo.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\cars_albedo_2.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\cars_albedo_2.tif
+    projectPath: Assets\Simple Vehicle Pack\Textures\cars_albedo_2.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\cars_albedo_2.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\cars_albedo_2.tif.meta
+    projectPath: Assets\Simple Vehicle Pack\Textures\cars_albedo_2.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\cars_AO.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\cars_AO.tif
+    projectPath: Assets\Simple Vehicle Pack\Textures\cars_AO.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\cars_AO.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\cars_AO.tif.meta
+    projectPath: Assets\Simple Vehicle Pack\Textures\cars_AO.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\cars_metallic.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\cars_metallic.tif
+    projectPath: Assets\Simple Vehicle Pack\Textures\cars_metallic.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\cars_metallic.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\cars_metallic.tif.meta
+    projectPath: Assets\Simple Vehicle Pack\Textures\cars_metallic.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\Mobile.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\Mobile.meta
+    projectPath: Assets\Simple Vehicle Pack\Textures\Mobile.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\Mobile\bus_2_diffuse.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\Mobile\bus_2_diffuse.tif
+    projectPath: Assets\Simple Vehicle Pack\Textures\Mobile\bus_2_diffuse.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\Mobile\bus_2_diffuse.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\Mobile\bus_2_diffuse.tif.meta
+    projectPath: Assets\Simple Vehicle Pack\Textures\Mobile\bus_2_diffuse.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\Mobile\bus_diffuse.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\Mobile\bus_diffuse.tif
+    projectPath: Assets\Simple Vehicle Pack\Textures\Mobile\bus_diffuse.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\Mobile\bus_diffuse.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\Mobile\bus_diffuse.tif.meta
+    projectPath: Assets\Simple Vehicle Pack\Textures\Mobile\bus_diffuse.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\Mobile\cars_2_diffuse.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\Mobile\cars_2_diffuse.tif
+    projectPath: Assets\Simple Vehicle Pack\Textures\Mobile\cars_2_diffuse.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\Mobile\cars_2_diffuse.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\Mobile\cars_2_diffuse.tif.meta
+    projectPath: Assets\Simple Vehicle Pack\Textures\Mobile\cars_2_diffuse.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\Mobile\cars_diffuse.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\Mobile\cars_diffuse.tif
+    projectPath: Assets\Simple Vehicle Pack\Textures\Mobile\cars_diffuse.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\Mobile\cars_diffuse.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\Mobile\cars_diffuse.tif.meta
+    projectPath: Assets\Simple Vehicle Pack\Textures\Mobile\cars_diffuse.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\Mobile\road_diffuse.tif
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\Mobile\road_diffuse.tif
+    projectPath: Assets\Simple Vehicle Pack\Textures\Mobile\road_diffuse.tif
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Assets\Simple Vehicle Pack\Textures\Mobile\road_diffuse.tif.meta
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Simple
+      Vehicle Pack\Textures\Mobile\road_diffuse.tif.meta
+    projectPath: Assets\Simple Vehicle Pack\Textures\Mobile\road_diffuse.tif.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ArtifactDB
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: tarffic System\Library\Artifacts\00\007ed068f769d5b703c029003cfb4110
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\00\007ed068f769d5b703c029003cfb4110
+    projectPath: Library\Artifacts\00\007ed068f769d5b703c029003cfb4110
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\02\024053ddf7e466f2b4481e8a03d00789
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\02\024053ddf7e466f2b4481e8a03d00789
+    projectPath: Library\Artifacts\02\024053ddf7e466f2b4481e8a03d00789
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\02\027697679da90cdea3f8b24986449c30
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\02\027697679da90cdea3f8b24986449c30
+    projectPath: Library\Artifacts\02\027697679da90cdea3f8b24986449c30
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\06\06071910b77c26c4f15557f483120a91
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\06\06071910b77c26c4f15557f483120a91
+    projectPath: Library\Artifacts\06\06071910b77c26c4f15557f483120a91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\08\08fd91a092a5d6c88f9e052d860f17a1
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\08\08fd91a092a5d6c88f9e052d860f17a1
+    projectPath: Library\Artifacts\08\08fd91a092a5d6c88f9e052d860f17a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\0c\0ca8508965004d7a3e2eebe6a95f4309
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\0c\0ca8508965004d7a3e2eebe6a95f4309
+    projectPath: Library\Artifacts\0c\0ca8508965004d7a3e2eebe6a95f4309
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\0c\0cee17d5bb3bf24cc131389232070caa
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\0c\0cee17d5bb3bf24cc131389232070caa
+    projectPath: Library\Artifacts\0c\0cee17d5bb3bf24cc131389232070caa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\0f\0ff18db70733685be63b1bda23204523
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\0f\0ff18db70733685be63b1bda23204523
+    projectPath: Library\Artifacts\0f\0ff18db70733685be63b1bda23204523
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\11\11e71de23e3f8122b458cae9398f91ff
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\11\11e71de23e3f8122b458cae9398f91ff
+    projectPath: Library\Artifacts\11\11e71de23e3f8122b458cae9398f91ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\12\12b12913a76b9f01391042973c9b4a3d
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\12\12b12913a76b9f01391042973c9b4a3d
+    projectPath: Library\Artifacts\12\12b12913a76b9f01391042973c9b4a3d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\13\134096858e9a2b1608ab93573aadd2e4
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\13\134096858e9a2b1608ab93573aadd2e4
+    projectPath: Library\Artifacts\13\134096858e9a2b1608ab93573aadd2e4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\13\139e1e9427f112a699d7cd1726a83f57
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\13\139e1e9427f112a699d7cd1726a83f57
+    projectPath: Library\Artifacts\13\139e1e9427f112a699d7cd1726a83f57
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\14\14aeaf2377a76550ae62ce3600c51453
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\14\14aeaf2377a76550ae62ce3600c51453
+    projectPath: Library\Artifacts\14\14aeaf2377a76550ae62ce3600c51453
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\16\16a002875f631aa5028d24b0efbe6050
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\16\16a002875f631aa5028d24b0efbe6050
+    projectPath: Library\Artifacts\16\16a002875f631aa5028d24b0efbe6050
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\18\181746d69e82b5bae44ad8f000d65db7
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\18\181746d69e82b5bae44ad8f000d65db7
+    projectPath: Library\Artifacts\18\181746d69e82b5bae44ad8f000d65db7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\18\1859b1a3c8b2aac7507717674033f813
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\18\1859b1a3c8b2aac7507717674033f813
+    projectPath: Library\Artifacts\18\1859b1a3c8b2aac7507717674033f813
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\18\1891afd4fba7d971846d0f04ce8e98b0
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\18\1891afd4fba7d971846d0f04ce8e98b0
+    projectPath: Library\Artifacts\18\1891afd4fba7d971846d0f04ce8e98b0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\19\19774cae3075449b0eca46178e767e94
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\19\19774cae3075449b0eca46178e767e94
+    projectPath: Library\Artifacts\19\19774cae3075449b0eca46178e767e94
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\1e\1e97ff5e6d2e26d837c2a8266678c8f5
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\1e\1e97ff5e6d2e26d837c2a8266678c8f5
+    projectPath: Library\Artifacts\1e\1e97ff5e6d2e26d837c2a8266678c8f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\24\24a94853578b02ff300c75a167379970
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\24\24a94853578b02ff300c75a167379970
+    projectPath: Library\Artifacts\24\24a94853578b02ff300c75a167379970
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\25\255af25ac9d2d4988019b2e2d0389151
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\25\255af25ac9d2d4988019b2e2d0389151
+    projectPath: Library\Artifacts\25\255af25ac9d2d4988019b2e2d0389151
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\27\271f2017f6f99e3ac4b637370ccf6e46
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\27\271f2017f6f99e3ac4b637370ccf6e46
+    projectPath: Library\Artifacts\27\271f2017f6f99e3ac4b637370ccf6e46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\28\28d32d26f5ca9691b9fc2193a9bbac01
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\28\28d32d26f5ca9691b9fc2193a9bbac01
+    projectPath: Library\Artifacts\28\28d32d26f5ca9691b9fc2193a9bbac01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\29\2989fd76869139df05b40cbb1320995c
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\29\2989fd76869139df05b40cbb1320995c
+    projectPath: Library\Artifacts\29\2989fd76869139df05b40cbb1320995c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\29\299a48cea99aa1e82420560f8631d829
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\29\299a48cea99aa1e82420560f8631d829
+    projectPath: Library\Artifacts\29\299a48cea99aa1e82420560f8631d829
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\2d\2d3c2676bc0f22fc864382faea7319cd
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\2d\2d3c2676bc0f22fc864382faea7319cd
+    projectPath: Library\Artifacts\2d\2d3c2676bc0f22fc864382faea7319cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\31\3166e302e267e1458a090289c9a4e5b5
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\31\3166e302e267e1458a090289c9a4e5b5
+    projectPath: Library\Artifacts\31\3166e302e267e1458a090289c9a4e5b5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\32\32ae46fbe879cabfd0270d654b76cd2b
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\32\32ae46fbe879cabfd0270d654b76cd2b
+    projectPath: Library\Artifacts\32\32ae46fbe879cabfd0270d654b76cd2b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\34\34c6913a08f722a73c74a96033aa7546
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\34\34c6913a08f722a73c74a96033aa7546
+    projectPath: Library\Artifacts\34\34c6913a08f722a73c74a96033aa7546
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\34\34d3f2c43961ed72792f4367480a4be2
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\34\34d3f2c43961ed72792f4367480a4be2
+    projectPath: Library\Artifacts\34\34d3f2c43961ed72792f4367480a4be2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\37\37adf5ddab64dade6c08df41ba6765b1
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\37\37adf5ddab64dade6c08df41ba6765b1
+    projectPath: Library\Artifacts\37\37adf5ddab64dade6c08df41ba6765b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\3b\3bbe1cceeb9c03ca207af32b2c1269c1
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\3b\3bbe1cceeb9c03ca207af32b2c1269c1
+    projectPath: Library\Artifacts\3b\3bbe1cceeb9c03ca207af32b2c1269c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\3d\3dc613e91ab49c3a99f10d88f7b450e9
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\3d\3dc613e91ab49c3a99f10d88f7b450e9
+    projectPath: Library\Artifacts\3d\3dc613e91ab49c3a99f10d88f7b450e9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\41\413cefc6092edf11ef03230ef33f3e21
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\41\413cefc6092edf11ef03230ef33f3e21
+    projectPath: Library\Artifacts\41\413cefc6092edf11ef03230ef33f3e21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\43\43503640e148310a0c1ab14ccb6e876e
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\43\43503640e148310a0c1ab14ccb6e876e
+    projectPath: Library\Artifacts\43\43503640e148310a0c1ab14ccb6e876e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\45\45245caf7557cbd470a3a3c2c2a22e9a
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\45\45245caf7557cbd470a3a3c2c2a22e9a
+    projectPath: Library\Artifacts\45\45245caf7557cbd470a3a3c2c2a22e9a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\45\45bde1df5ae72530279311d09a1486a5
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\45\45bde1df5ae72530279311d09a1486a5
+    projectPath: Library\Artifacts\45\45bde1df5ae72530279311d09a1486a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\47\47611ff9fdd5b2814f9bc1d14bdb9b2c
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\47\47611ff9fdd5b2814f9bc1d14bdb9b2c
+    projectPath: Library\Artifacts\47\47611ff9fdd5b2814f9bc1d14bdb9b2c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\48\4822f3c459e6d7c7636d668382499014
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\48\4822f3c459e6d7c7636d668382499014
+    projectPath: Library\Artifacts\48\4822f3c459e6d7c7636d668382499014
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\48\483da52e963bd9f737c9d214fa142291
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\48\483da52e963bd9f737c9d214fa142291
+    projectPath: Library\Artifacts\48\483da52e963bd9f737c9d214fa142291
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\4a\4a3716e94ddab12e8476f28e5b0f27ca
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\4a\4a3716e94ddab12e8476f28e5b0f27ca
+    projectPath: Library\Artifacts\4a\4a3716e94ddab12e8476f28e5b0f27ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\50\502448f9fdc7e9258fade240a4d1ee63
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\50\502448f9fdc7e9258fade240a4d1ee63
+    projectPath: Library\Artifacts\50\502448f9fdc7e9258fade240a4d1ee63
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\53\53f3bf693adca871f755da1905971c10
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\53\53f3bf693adca871f755da1905971c10
+    projectPath: Library\Artifacts\53\53f3bf693adca871f755da1905971c10
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\55\55c5b7a065e36d21f61a4b295fd330c4
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\55\55c5b7a065e36d21f61a4b295fd330c4
+    projectPath: Library\Artifacts\55\55c5b7a065e36d21f61a4b295fd330c4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\56\56fb5da4a0caeebc82b128a360ed92d5
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\56\56fb5da4a0caeebc82b128a360ed92d5
+    projectPath: Library\Artifacts\56\56fb5da4a0caeebc82b128a360ed92d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\57\572f793756ff269689a6e466176959b6
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\57\572f793756ff269689a6e466176959b6
+    projectPath: Library\Artifacts\57\572f793756ff269689a6e466176959b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\58\5872111f726fc1c8673bd3afd3ee0872
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\58\5872111f726fc1c8673bd3afd3ee0872
+    projectPath: Library\Artifacts\58\5872111f726fc1c8673bd3afd3ee0872
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\5b\5b25f3daf3814c380085c3e219b3bced
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\5b\5b25f3daf3814c380085c3e219b3bced
+    projectPath: Library\Artifacts\5b\5b25f3daf3814c380085c3e219b3bced
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\5b\5ba4cfc8b2750d8fef9989a720ba1023
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\5b\5ba4cfc8b2750d8fef9989a720ba1023
+    projectPath: Library\Artifacts\5b\5ba4cfc8b2750d8fef9989a720ba1023
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\5f\5f5cc176058a37ce63b8cb1f49ca0d94
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\5f\5f5cc176058a37ce63b8cb1f49ca0d94
+    projectPath: Library\Artifacts\5f\5f5cc176058a37ce63b8cb1f49ca0d94
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\62\621ee179972866b745467c36d1448ca5
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\62\621ee179972866b745467c36d1448ca5
+    projectPath: Library\Artifacts\62\621ee179972866b745467c36d1448ca5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\65\65626c2895bcfc419ea296bd3dfa20c8
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\65\65626c2895bcfc419ea296bd3dfa20c8
+    projectPath: Library\Artifacts\65\65626c2895bcfc419ea296bd3dfa20c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\6a\6add9acabcf3951ab40c3431ef3d9e18
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\6a\6add9acabcf3951ab40c3431ef3d9e18
+    projectPath: Library\Artifacts\6a\6add9acabcf3951ab40c3431ef3d9e18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\71\71b7a6291016d3baa2c36798f12b06dd
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\71\71b7a6291016d3baa2c36798f12b06dd
+    projectPath: Library\Artifacts\71\71b7a6291016d3baa2c36798f12b06dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\71\71e60998f74044c42721b815b68ade66
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\71\71e60998f74044c42721b815b68ade66
+    projectPath: Library\Artifacts\71\71e60998f74044c42721b815b68ade66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\76\767cf11771d60ecc3448d66769d03328
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\76\767cf11771d60ecc3448d66769d03328
+    projectPath: Library\Artifacts\76\767cf11771d60ecc3448d66769d03328
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\7a\7ac07d766879fc9de9962e494ef69aed
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\7a\7ac07d766879fc9de9962e494ef69aed
+    projectPath: Library\Artifacts\7a\7ac07d766879fc9de9962e494ef69aed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\7b\7b3b8625db51db2b756c62bdcc6b5db4
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\7b\7b3b8625db51db2b756c62bdcc6b5db4
+    projectPath: Library\Artifacts\7b\7b3b8625db51db2b756c62bdcc6b5db4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\7c\7c6f7e4aa400bbdedca4bc999c0f3203
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\7c\7c6f7e4aa400bbdedca4bc999c0f3203
+    projectPath: Library\Artifacts\7c\7c6f7e4aa400bbdedca4bc999c0f3203
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\7d\7dd66237cbe8ac91b5e7155850c80fe9
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\7d\7dd66237cbe8ac91b5e7155850c80fe9
+    projectPath: Library\Artifacts\7d\7dd66237cbe8ac91b5e7155850c80fe9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\87\87be0196b41bcbb6ee4b44d52aa31f41
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\87\87be0196b41bcbb6ee4b44d52aa31f41
+    projectPath: Library\Artifacts\87\87be0196b41bcbb6ee4b44d52aa31f41
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Library\Artifacts\8b\8b27d6b23c0b8da07546e44afd9be924
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\8b\8b27d6b23c0b8da07546e44afd9be924
+    projectPath: Library\Artifacts\8b\8b27d6b23c0b8da07546e44afd9be924
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\8c\8c0b0b15c69ae10c0e8877cb32a76368
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\8c\8c0b0b15c69ae10c0e8877cb32a76368
+    projectPath: Library\Artifacts\8c\8c0b0b15c69ae10c0e8877cb32a76368
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\8c\8ce432bcd246e6af325e3382ff6b7be3
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\8c\8ce432bcd246e6af325e3382ff6b7be3
+    projectPath: Library\Artifacts\8c\8ce432bcd246e6af325e3382ff6b7be3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\8d\8d62bb2ca6f00d908f6e8d3a07e69200
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\8d\8d62bb2ca6f00d908f6e8d3a07e69200
+    projectPath: Library\Artifacts\8d\8d62bb2ca6f00d908f6e8d3a07e69200
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\93\93a6384e8a68b8a342495ffc669c0bc7
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\93\93a6384e8a68b8a342495ffc669c0bc7
+    projectPath: Library\Artifacts\93\93a6384e8a68b8a342495ffc669c0bc7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\95\95a78152ff4a11bcce11cefc2d69ff0a
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\95\95a78152ff4a11bcce11cefc2d69ff0a
+    projectPath: Library\Artifacts\95\95a78152ff4a11bcce11cefc2d69ff0a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\98\987e38e8e580f237d719ae435b5f2464
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\98\987e38e8e580f237d719ae435b5f2464
+    projectPath: Library\Artifacts\98\987e38e8e580f237d719ae435b5f2464
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\9a\9a25c34db04e8a4b48c0d8d9cde33403
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\9a\9a25c34db04e8a4b48c0d8d9cde33403
+    projectPath: Library\Artifacts\9a\9a25c34db04e8a4b48c0d8d9cde33403
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\9a\9a4ae1c2361f3d8ca8277c4dd8f7249b
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\9a\9a4ae1c2361f3d8ca8277c4dd8f7249b
+    projectPath: Library\Artifacts\9a\9a4ae1c2361f3d8ca8277c4dd8f7249b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\9a\9a6f52f59ab402b912b9492b0b0b3f91
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\9a\9a6f52f59ab402b912b9492b0b0b3f91
+    projectPath: Library\Artifacts\9a\9a6f52f59ab402b912b9492b0b0b3f91
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\9a\9a923f21459ae9c82183916b27ec8244
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\9a\9a923f21459ae9c82183916b27ec8244
+    projectPath: Library\Artifacts\9a\9a923f21459ae9c82183916b27ec8244
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\9c\9c1d42832482e30c90349bb2fa37956c
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\9c\9c1d42832482e30c90349bb2fa37956c
+    projectPath: Library\Artifacts\9c\9c1d42832482e30c90349bb2fa37956c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\9e\9e0c38656e3842cafc6f3f972f39792f
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\9e\9e0c38656e3842cafc6f3f972f39792f
+    projectPath: Library\Artifacts\9e\9e0c38656e3842cafc6f3f972f39792f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\9e\9e9f66779e1f9bd63f198e8412f61067
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\9e\9e9f66779e1f9bd63f198e8412f61067
+    projectPath: Library\Artifacts\9e\9e9f66779e1f9bd63f198e8412f61067
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\a1\a140a76a065e8dc336bfe8ca37495c4e
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\a1\a140a76a065e8dc336bfe8ca37495c4e
+    projectPath: Library\Artifacts\a1\a140a76a065e8dc336bfe8ca37495c4e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\a4\a4cbc501ed09abb3181da06b997efc04
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\a4\a4cbc501ed09abb3181da06b997efc04
+    projectPath: Library\Artifacts\a4\a4cbc501ed09abb3181da06b997efc04
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\a7\a7a3ff17809c490551adff14c5956813
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\a7\a7a3ff17809c490551adff14c5956813
+    projectPath: Library\Artifacts\a7\a7a3ff17809c490551adff14c5956813
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\a8\a87102580a115be27724edf1e34194ee
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\a8\a87102580a115be27724edf1e34194ee
+    projectPath: Library\Artifacts\a8\a87102580a115be27724edf1e34194ee
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Library\Artifacts\aa\aabe93111ff19e090d7d307c2489751e
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\aa\aabe93111ff19e090d7d307c2489751e
+    projectPath: Library\Artifacts\aa\aabe93111ff19e090d7d307c2489751e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\aa\aaf3c4e329d456e3deacbe7b03961e45
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\aa\aaf3c4e329d456e3deacbe7b03961e45
+    projectPath: Library\Artifacts\aa\aaf3c4e329d456e3deacbe7b03961e45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\ab\ab8dd2a0b71692548ee96431386795c6
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\ab\ab8dd2a0b71692548ee96431386795c6
+    projectPath: Library\Artifacts\ab\ab8dd2a0b71692548ee96431386795c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\ab\abb84405b39b3f9c2fdb30fe7bf84dd1
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\ab\abb84405b39b3f9c2fdb30fe7bf84dd1
+    projectPath: Library\Artifacts\ab\abb84405b39b3f9c2fdb30fe7bf84dd1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\ab\abf74cd516b6ff2c628377b7d536ec06
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\ab\abf74cd516b6ff2c628377b7d536ec06
+    projectPath: Library\Artifacts\ab\abf74cd516b6ff2c628377b7d536ec06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\ac\acbc586651557efef2a3698f3a59c795
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\ac\acbc586651557efef2a3698f3a59c795
+    projectPath: Library\Artifacts\ac\acbc586651557efef2a3698f3a59c795
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\ad\adfa830b76ef1473e214dddee456e04b
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\ad\adfa830b76ef1473e214dddee456e04b
+    projectPath: Library\Artifacts\ad\adfa830b76ef1473e214dddee456e04b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\ad\adfb6ad76c8bbd460aeb50656fd49507
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\ad\adfb6ad76c8bbd460aeb50656fd49507
+    projectPath: Library\Artifacts\ad\adfb6ad76c8bbd460aeb50656fd49507
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\af\af57a28eb19984df257451df438094b8
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\af\af57a28eb19984df257451df438094b8
+    projectPath: Library\Artifacts\af\af57a28eb19984df257451df438094b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\af\aff697309bfdabdc2889032839e2c501
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\af\aff697309bfdabdc2889032839e2c501
+    projectPath: Library\Artifacts\af\aff697309bfdabdc2889032839e2c501
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\b0\b074d5eb26a2ee59271bd70f3dd70adf
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\b0\b074d5eb26a2ee59271bd70f3dd70adf
+    projectPath: Library\Artifacts\b0\b074d5eb26a2ee59271bd70f3dd70adf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\b0\b0c7da9db078f8aa5c89c3f018c7940d
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\b0\b0c7da9db078f8aa5c89c3f018c7940d
+    projectPath: Library\Artifacts\b0\b0c7da9db078f8aa5c89c3f018c7940d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\b1\b1c04fe0c09602471774e53de33165ba
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\b1\b1c04fe0c09602471774e53de33165ba
+    projectPath: Library\Artifacts\b1\b1c04fe0c09602471774e53de33165ba
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\b1\b1d4e0aba530a05463e70c92253141aa
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\b1\b1d4e0aba530a05463e70c92253141aa
+    projectPath: Library\Artifacts\b1\b1d4e0aba530a05463e70c92253141aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\b2\b275d840fe1c902ca792ad4017735e09
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\b2\b275d840fe1c902ca792ad4017735e09
+    projectPath: Library\Artifacts\b2\b275d840fe1c902ca792ad4017735e09
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\b5\b54b66823f3f7aed808d78f538cbab55
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\b5\b54b66823f3f7aed808d78f538cbab55
+    projectPath: Library\Artifacts\b5\b54b66823f3f7aed808d78f538cbab55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\b6\b67fc8f74cb28b9aaab646f36d0ca4cb
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\b6\b67fc8f74cb28b9aaab646f36d0ca4cb
+    projectPath: Library\Artifacts\b6\b67fc8f74cb28b9aaab646f36d0ca4cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\b8\b84379c01fecff2e5fd91375409a49f0
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\b8\b84379c01fecff2e5fd91375409a49f0
+    projectPath: Library\Artifacts\b8\b84379c01fecff2e5fd91375409a49f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\b9\b951484898200ae4897225a3bde418df
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\b9\b951484898200ae4897225a3bde418df
+    projectPath: Library\Artifacts\b9\b951484898200ae4897225a3bde418df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\b9\b9aff45cebf5c330cfe243aefead7d4e
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\b9\b9aff45cebf5c330cfe243aefead7d4e
+    projectPath: Library\Artifacts\b9\b9aff45cebf5c330cfe243aefead7d4e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\bd\bdb8e237fe48f32ee48893692b7a7736
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\bd\bdb8e237fe48f32ee48893692b7a7736
+    projectPath: Library\Artifacts\bd\bdb8e237fe48f32ee48893692b7a7736
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\be\be774a1bdb3ac31ababffae135fbd9ec
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\be\be774a1bdb3ac31ababffae135fbd9ec
+    projectPath: Library\Artifacts\be\be774a1bdb3ac31ababffae135fbd9ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\c1\c1df65baa4d1f28560b32212e8c54489
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\c1\c1df65baa4d1f28560b32212e8c54489
+    projectPath: Library\Artifacts\c1\c1df65baa4d1f28560b32212e8c54489
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\c3\c329577c1b4f781f5d210536b8a652ad
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\c3\c329577c1b4f781f5d210536b8a652ad
+    projectPath: Library\Artifacts\c3\c329577c1b4f781f5d210536b8a652ad
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\c3\c34cf8f946b23a43eec31e835cb2aab0
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\c3\c34cf8f946b23a43eec31e835cb2aab0
+    projectPath: Library\Artifacts\c3\c34cf8f946b23a43eec31e835cb2aab0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\c6\c60884e5ac5e0c555794b76bdd629131
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\c6\c60884e5ac5e0c555794b76bdd629131
+    projectPath: Library\Artifacts\c6\c60884e5ac5e0c555794b76bdd629131
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\c9\c96d026aee672526c3fc60634d7ede1f
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\c9\c96d026aee672526c3fc60634d7ede1f
+    projectPath: Library\Artifacts\c9\c96d026aee672526c3fc60634d7ede1f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\c9\c980cbcf0b3f1115bfeee58bdbf13c0d
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\c9\c980cbcf0b3f1115bfeee58bdbf13c0d
+    projectPath: Library\Artifacts\c9\c980cbcf0b3f1115bfeee58bdbf13c0d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\ca\ca1a84cdb3ae5fea9b1f3af297f762af
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\ca\ca1a84cdb3ae5fea9b1f3af297f762af
+    projectPath: Library\Artifacts\ca\ca1a84cdb3ae5fea9b1f3af297f762af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\cb\cbe65c75b0ef0006ef80f549cf8b035f
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\cb\cbe65c75b0ef0006ef80f549cf8b035f
+    projectPath: Library\Artifacts\cb\cbe65c75b0ef0006ef80f549cf8b035f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\ce\ce87278833058160b10854a10d411690
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\ce\ce87278833058160b10854a10d411690
+    projectPath: Library\Artifacts\ce\ce87278833058160b10854a10d411690
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\ce\cec9f4caeed94442cc6fdc43b70c395c
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\ce\cec9f4caeed94442cc6fdc43b70c395c
+    projectPath: Library\Artifacts\ce\cec9f4caeed94442cc6fdc43b70c395c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\d3\d315079e47cb94a0ffcf8201e2591b11
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\d3\d315079e47cb94a0ffcf8201e2591b11
+    projectPath: Library\Artifacts\d3\d315079e47cb94a0ffcf8201e2591b11
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\d4\d4134935c435ca0c89b394aaaa9e7a03
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\d4\d4134935c435ca0c89b394aaaa9e7a03
+    projectPath: Library\Artifacts\d4\d4134935c435ca0c89b394aaaa9e7a03
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\d5\d57d5abfe2aff9b0e7d573c57357d14f
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\d5\d57d5abfe2aff9b0e7d573c57357d14f
+    projectPath: Library\Artifacts\d5\d57d5abfe2aff9b0e7d573c57357d14f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\d6\d694397709921602621569164c5d638e
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\d6\d694397709921602621569164c5d638e
+    projectPath: Library\Artifacts\d6\d694397709921602621569164c5d638e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\d9\d9ac9f7bc41b1afcc5e97d45813056fe
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\d9\d9ac9f7bc41b1afcc5e97d45813056fe
+    projectPath: Library\Artifacts\d9\d9ac9f7bc41b1afcc5e97d45813056fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\dd\dd9ae5f5cfbae7a00bcbc8d296824155
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\dd\dd9ae5f5cfbae7a00bcbc8d296824155
+    projectPath: Library\Artifacts\dd\dd9ae5f5cfbae7a00bcbc8d296824155
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\de\de12559332a2b2dee8c5ca5798e2c73a
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\de\de12559332a2b2dee8c5ca5798e2c73a
+    projectPath: Library\Artifacts\de\de12559332a2b2dee8c5ca5798e2c73a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\df\df4720cc11923a199ac4a92a706ce3c7
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\df\df4720cc11923a199ac4a92a706ce3c7
+    projectPath: Library\Artifacts\df\df4720cc11923a199ac4a92a706ce3c7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\e2\e2b4e05567e49ad4f9df0b7a1ab53738
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\e2\e2b4e05567e49ad4f9df0b7a1ab53738
+    projectPath: Library\Artifacts\e2\e2b4e05567e49ad4f9df0b7a1ab53738
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\e7\e726525a9f9a610acc3794dee0274592
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\e7\e726525a9f9a610acc3794dee0274592
+    projectPath: Library\Artifacts\e7\e726525a9f9a610acc3794dee0274592
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\eb\ebc51814088c8a22cdf719b4aa169005
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\eb\ebc51814088c8a22cdf719b4aa169005
+    projectPath: Library\Artifacts\eb\ebc51814088c8a22cdf719b4aa169005
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\eb\ebef1176b074ea411b2441421efb614e
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\eb\ebef1176b074ea411b2441421efb614e
+    projectPath: Library\Artifacts\eb\ebef1176b074ea411b2441421efb614e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\ec\ecb407eb71bfbb37291f3861fcc1ecc5
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\ec\ecb407eb71bfbb37291f3861fcc1ecc5
+    projectPath: Library\Artifacts\ec\ecb407eb71bfbb37291f3861fcc1ecc5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\ec\ecc6e6691eb9d143daee56b384d37bb7
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\ec\ecc6e6691eb9d143daee56b384d37bb7
+    projectPath: Library\Artifacts\ec\ecc6e6691eb9d143daee56b384d37bb7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\ed\ed517e8753954d3de0b2638172bdfc14
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\ed\ed517e8753954d3de0b2638172bdfc14
+    projectPath: Library\Artifacts\ed\ed517e8753954d3de0b2638172bdfc14
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\ee\ee8ff89e7dbc4babb7388c4bd83c161f
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\ee\ee8ff89e7dbc4babb7388c4bd83c161f
+    projectPath: Library\Artifacts\ee\ee8ff89e7dbc4babb7388c4bd83c161f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\ee\eea006776ca3c74b24c65882029e859f
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\ee\eea006776ca3c74b24c65882029e859f
+    projectPath: Library\Artifacts\ee\eea006776ca3c74b24c65882029e859f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\f0\f057549e662582c17376ee67ea1ab844
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\f0\f057549e662582c17376ee67ea1ab844
+    projectPath: Library\Artifacts\f0\f057549e662582c17376ee67ea1ab844
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\f1\f16346ef064261cb1ae25d4e8dc4b78b
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\f1\f16346ef064261cb1ae25d4e8dc4b78b
+    projectPath: Library\Artifacts\f1\f16346ef064261cb1ae25d4e8dc4b78b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\f2\f217b0db3ba01d0302c136caa1b0ee97
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\f2\f217b0db3ba01d0302c136caa1b0ee97
+    projectPath: Library\Artifacts\f2\f217b0db3ba01d0302c136caa1b0ee97
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\f3\f315e078d0e3779ea25f33af693487a4
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\f3\f315e078d0e3779ea25f33af693487a4
+    projectPath: Library\Artifacts\f3\f315e078d0e3779ea25f33af693487a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\f3\f3657c2597176795db505b15443ad5bb
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\f3\f3657c2597176795db505b15443ad5bb
+    projectPath: Library\Artifacts\f3\f3657c2597176795db505b15443ad5bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
+    projectPath: Library\Artifacts\f7\f7c3dccb87fe3bce1546fba2b4a43e36
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\f7\f7d6db6a1fbfc1bc7aa894601f65c805
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\f7\f7d6db6a1fbfc1bc7aa894601f65c805
+    projectPath: Library\Artifacts\f7\f7d6db6a1fbfc1bc7aa894601f65c805
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\fb\fb2a3dd703188ad58ee58c2abe9c12d1
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\fb\fb2a3dd703188ad58ee58c2abe9c12d1
+    projectPath: Library\Artifacts\fb\fb2a3dd703188ad58ee58c2abe9c12d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\fc\fc59ba4e022c9b8e15369c91e366544b
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\fc\fc59ba4e022c9b8e15369c91e366544b
+    projectPath: Library\Artifacts\fc\fc59ba4e022c9b8e15369c91e366544b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\fc\fccca8cce2ac33d2c93b493121f17612
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\fc\fccca8cce2ac33d2c93b493121f17612
+    projectPath: Library\Artifacts\fc\fccca8cce2ac33d2c93b493121f17612
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\ff\ff335e45f661185fbeebff5d7930a21a
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\ff\ff335e45f661185fbeebff5d7930a21a
+    projectPath: Library\Artifacts\ff\ff335e45f661185fbeebff5d7930a21a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\Artifacts\ff\ff60d224e364311cbd4259ed1632046d
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\ff\ff60d224e364311cbd4259ed1632046d
+    projectPath: Library\Artifacts\ff\ff60d224e364311cbd4259ed1632046d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: tarffic System\Library\EditorInstance.json
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: tarffic System\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: tarffic System\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\0\054f293ec0f32c21d8a8dbac79a224ee.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\0\054f293ec0f32c21d8a8dbac79a224ee.bin
+    projectPath: Library\ShaderCache\0\054f293ec0f32c21d8a8dbac79a224ee.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\0\068e49e7dd31eb5f88e0ccd3a56bdcd6.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\0\068e49e7dd31eb5f88e0ccd3a56bdcd6.bin
+    projectPath: Library\ShaderCache\0\068e49e7dd31eb5f88e0ccd3a56bdcd6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\0\076210d864476f14729fd6de66d5b9d4.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\0\076210d864476f14729fd6de66d5b9d4.bin
+    projectPath: Library\ShaderCache\0\076210d864476f14729fd6de66d5b9d4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\0\08685c121aa6a4702ffefd14d052848f.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\0\08685c121aa6a4702ffefd14d052848f.bin
+    projectPath: Library\ShaderCache\0\08685c121aa6a4702ffefd14d052848f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\0\08a7ccb7f2713a79ca1a965ff94e2bb7.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\0\08a7ccb7f2713a79ca1a965ff94e2bb7.bin
+    projectPath: Library\ShaderCache\0\08a7ccb7f2713a79ca1a965ff94e2bb7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\0\0d79b74532ce1366d63c22f0ba1758d6.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\0\0d79b74532ce1366d63c22f0ba1758d6.bin
+    projectPath: Library\ShaderCache\0\0d79b74532ce1366d63c22f0ba1758d6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\0\0dc4c065cc05d6ef0ad0e3b438d56cf0.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\0\0dc4c065cc05d6ef0ad0e3b438d56cf0.bin
+    projectPath: Library\ShaderCache\0\0dc4c065cc05d6ef0ad0e3b438d56cf0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\0\0e654ed591175e9d765ae2daa874ee01.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\0\0e654ed591175e9d765ae2daa874ee01.bin
+    projectPath: Library\ShaderCache\0\0e654ed591175e9d765ae2daa874ee01.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\1\14eaeb7a7b68fc1de38d397905f8b8b6.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\1\14eaeb7a7b68fc1de38d397905f8b8b6.bin
+    projectPath: Library\ShaderCache\1\14eaeb7a7b68fc1de38d397905f8b8b6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\1\17a5fd7c7dca5fe90134c194ae21352c.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\1\17a5fd7c7dca5fe90134c194ae21352c.bin
+    projectPath: Library\ShaderCache\1\17a5fd7c7dca5fe90134c194ae21352c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\1\196c40e24b82c3ea65c2d45273a523ca.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\1\196c40e24b82c3ea65c2d45273a523ca.bin
+    projectPath: Library\ShaderCache\1\196c40e24b82c3ea65c2d45273a523ca.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\1\1f585bb8d45e34c6aad2c1d5f42b8b42.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\1\1f585bb8d45e34c6aad2c1d5f42b8b42.bin
+    projectPath: Library\ShaderCache\1\1f585bb8d45e34c6aad2c1d5f42b8b42.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\2\2354524e7735bde795031643c163973e.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\2\2354524e7735bde795031643c163973e.bin
+    projectPath: Library\ShaderCache\2\2354524e7735bde795031643c163973e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\2\2707b51241e72f357e534331a6815c37.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\2\2707b51241e72f357e534331a6815c37.bin
+    projectPath: Library\ShaderCache\2\2707b51241e72f357e534331a6815c37.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\2\281814586012dd346e487c47c2ae2d4e.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\2\281814586012dd346e487c47c2ae2d4e.bin
+    projectPath: Library\ShaderCache\2\281814586012dd346e487c47c2ae2d4e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\2\2d99e5ee29d979dbb6b827c37da3a0ad.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\2\2d99e5ee29d979dbb6b827c37da3a0ad.bin
+    projectPath: Library\ShaderCache\2\2d99e5ee29d979dbb6b827c37da3a0ad.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\2\2dae944c687e0937680d1432f314ed0c.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\2\2dae944c687e0937680d1432f314ed0c.bin
+    projectPath: Library\ShaderCache\2\2dae944c687e0937680d1432f314ed0c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\3\30f7081c53283167f9146a09242d81ee.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\3\30f7081c53283167f9146a09242d81ee.bin
+    projectPath: Library\ShaderCache\3\30f7081c53283167f9146a09242d81ee.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\3\3201c03616a3647c6e71e138dc1bfab9.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\3\3201c03616a3647c6e71e138dc1bfab9.bin
+    projectPath: Library\ShaderCache\3\3201c03616a3647c6e71e138dc1bfab9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\4\44e801ec7caa530d6ac114bb15afadc9.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\4\44e801ec7caa530d6ac114bb15afadc9.bin
+    projectPath: Library\ShaderCache\4\44e801ec7caa530d6ac114bb15afadc9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\4\477d91d1b69e594b0fdeeda5d722423a.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\4\477d91d1b69e594b0fdeeda5d722423a.bin
+    projectPath: Library\ShaderCache\4\477d91d1b69e594b0fdeeda5d722423a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\4\4da1554d164882e19391d18d1ad9623d.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\4\4da1554d164882e19391d18d1ad9623d.bin
+    projectPath: Library\ShaderCache\4\4da1554d164882e19391d18d1ad9623d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\4\4eb9a4de5af6738ffe55366f13169224.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\4\4eb9a4de5af6738ffe55366f13169224.bin
+    projectPath: Library\ShaderCache\4\4eb9a4de5af6738ffe55366f13169224.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\5\54119f02dd450213e62c2bc2d12d39ee.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\5\54119f02dd450213e62c2bc2d12d39ee.bin
+    projectPath: Library\ShaderCache\5\54119f02dd450213e62c2bc2d12d39ee.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\5\569e59f8d279875cdf521229d33d5fb5.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\5\569e59f8d279875cdf521229d33d5fb5.bin
+    projectPath: Library\ShaderCache\5\569e59f8d279875cdf521229d33d5fb5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\5\5af2d3d6b62a75f17f3dd2dbcdf59a27.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\5\5af2d3d6b62a75f17f3dd2dbcdf59a27.bin
+    projectPath: Library\ShaderCache\5\5af2d3d6b62a75f17f3dd2dbcdf59a27.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\5\5bdd91d45d57688308f1b37b841a54f8.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\5\5bdd91d45d57688308f1b37b841a54f8.bin
+    projectPath: Library\ShaderCache\5\5bdd91d45d57688308f1b37b841a54f8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\5\5c70c0cce488b43584077270024a7316.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\5\5c70c0cce488b43584077270024a7316.bin
+    projectPath: Library\ShaderCache\5\5c70c0cce488b43584077270024a7316.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\5\5ee9810120fbcceefd3d5f75539bbfd5.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\5\5ee9810120fbcceefd3d5f75539bbfd5.bin
+    projectPath: Library\ShaderCache\5\5ee9810120fbcceefd3d5f75539bbfd5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\5\5f1434b1bb39d1f74be1e0f1dd8878db.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\5\5f1434b1bb39d1f74be1e0f1dd8878db.bin
+    projectPath: Library\ShaderCache\5\5f1434b1bb39d1f74be1e0f1dd8878db.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\6\636426eb85aa7f9fb57b8beca11b0597.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\6\636426eb85aa7f9fb57b8beca11b0597.bin
+    projectPath: Library\ShaderCache\6\636426eb85aa7f9fb57b8beca11b0597.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\6\63b2f814d88e198a1b844ec5c07829c9.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\6\63b2f814d88e198a1b844ec5c07829c9.bin
+    projectPath: Library\ShaderCache\6\63b2f814d88e198a1b844ec5c07829c9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\6\6b1c35869fe3620ceab98afa0361d45e.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\6\6b1c35869fe3620ceab98afa0361d45e.bin
+    projectPath: Library\ShaderCache\6\6b1c35869fe3620ceab98afa0361d45e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\6\6b8bba526152d5cc8dd5bc6fc1237029.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\6\6b8bba526152d5cc8dd5bc6fc1237029.bin
+    projectPath: Library\ShaderCache\6\6b8bba526152d5cc8dd5bc6fc1237029.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\6\6ecc26396acdc5abe2f5eef8a660f779.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\6\6ecc26396acdc5abe2f5eef8a660f779.bin
+    projectPath: Library\ShaderCache\6\6ecc26396acdc5abe2f5eef8a660f779.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\7\711fda61cd69b7fae662b770cacb0c05.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\7\711fda61cd69b7fae662b770cacb0c05.bin
+    projectPath: Library\ShaderCache\7\711fda61cd69b7fae662b770cacb0c05.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\7\7490ec26b33e8da8eb18c47db74e3872.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\7\7490ec26b33e8da8eb18c47db74e3872.bin
+    projectPath: Library\ShaderCache\7\7490ec26b33e8da8eb18c47db74e3872.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\7\74adae8702b4505d0739d8ff6aee1bca.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\7\74adae8702b4505d0739d8ff6aee1bca.bin
+    projectPath: Library\ShaderCache\7\74adae8702b4505d0739d8ff6aee1bca.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\7\784ec078a5f5cc4574b9c9067818151d.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\7\784ec078a5f5cc4574b9c9067818151d.bin
+    projectPath: Library\ShaderCache\7\784ec078a5f5cc4574b9c9067818151d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\8\8449f546b49aaa54c8c8a5e3f603de21.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\8\8449f546b49aaa54c8c8a5e3f603de21.bin
+    projectPath: Library\ShaderCache\8\8449f546b49aaa54c8c8a5e3f603de21.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\8\89ba545f7157c055f8049596f5e4beea.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\8\89ba545f7157c055f8049596f5e4beea.bin
+    projectPath: Library\ShaderCache\8\89ba545f7157c055f8049596f5e4beea.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\8\8a27e4a7fe85de438fff44351fd10af4.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\8\8a27e4a7fe85de438fff44351fd10af4.bin
+    projectPath: Library\ShaderCache\8\8a27e4a7fe85de438fff44351fd10af4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\8\8baedcd5e52f013040a478a2a4b4b03b.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\8\8baedcd5e52f013040a478a2a4b4b03b.bin
+    projectPath: Library\ShaderCache\8\8baedcd5e52f013040a478a2a4b4b03b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\8\8e77baeb308cbaec38cac9e3688ecb20.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\8\8e77baeb308cbaec38cac9e3688ecb20.bin
+    projectPath: Library\ShaderCache\8\8e77baeb308cbaec38cac9e3688ecb20.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\9\957718895bd0205bce45e1068421a037.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\9\957718895bd0205bce45e1068421a037.bin
+    projectPath: Library\ShaderCache\9\957718895bd0205bce45e1068421a037.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\9\965419aa043585db7a46234d09003532.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\9\965419aa043585db7a46234d09003532.bin
+    projectPath: Library\ShaderCache\9\965419aa043585db7a46234d09003532.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\9\97a3b6ca51c449bf719c25c1a242eaa5.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\9\97a3b6ca51c449bf719c25c1a242eaa5.bin
+    projectPath: Library\ShaderCache\9\97a3b6ca51c449bf719c25c1a242eaa5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\9\97f7f3aba75c5a332c74d6df537d1ea5.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\9\97f7f3aba75c5a332c74d6df537d1ea5.bin
+    projectPath: Library\ShaderCache\9\97f7f3aba75c5a332c74d6df537d1ea5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\9\9e8141f70515d36a48428011084267ea.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\9\9e8141f70515d36a48428011084267ea.bin
+    projectPath: Library\ShaderCache\9\9e8141f70515d36a48428011084267ea.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\9\9f90c858aac0800b84881b3b109e0f81.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\9\9f90c858aac0800b84881b3b109e0f81.bin
+    projectPath: Library\ShaderCache\9\9f90c858aac0800b84881b3b109e0f81.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\a\a75bca48ef57db42a5b85aa694473317.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\a\a75bca48ef57db42a5b85aa694473317.bin
+    projectPath: Library\ShaderCache\a\a75bca48ef57db42a5b85aa694473317.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\a\aa9cf4953b16e3bcdc470fd96ae88395.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\a\aa9cf4953b16e3bcdc470fd96ae88395.bin
+    projectPath: Library\ShaderCache\a\aa9cf4953b16e3bcdc470fd96ae88395.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\a\ac5dd55098c6024178d412093037df16.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\a\ac5dd55098c6024178d412093037df16.bin
+    projectPath: Library\ShaderCache\a\ac5dd55098c6024178d412093037df16.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\b\b1a6f6f8feef12eec18aadc937e67e73.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\b\b1a6f6f8feef12eec18aadc937e67e73.bin
+    projectPath: Library\ShaderCache\b\b1a6f6f8feef12eec18aadc937e67e73.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\b\b27f9f3da99a323a43c948b026b46719.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\b\b27f9f3da99a323a43c948b026b46719.bin
+    projectPath: Library\ShaderCache\b\b27f9f3da99a323a43c948b026b46719.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\b\b93bbe405e3ffc78b468082385bf0e59.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\b\b93bbe405e3ffc78b468082385bf0e59.bin
+    projectPath: Library\ShaderCache\b\b93bbe405e3ffc78b468082385bf0e59.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\c\c09f7dc25c76da4ec90c983d6b0a85e5.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\c\c09f7dc25c76da4ec90c983d6b0a85e5.bin
+    projectPath: Library\ShaderCache\c\c09f7dc25c76da4ec90c983d6b0a85e5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\c\c2a5a5e58b587a94dab2cc946d4c2dac.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\c\c2a5a5e58b587a94dab2cc946d4c2dac.bin
+    projectPath: Library\ShaderCache\c\c2a5a5e58b587a94dab2cc946d4c2dac.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\c\c430528b460e40a7a31e6dceb26b82e7.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\c\c430528b460e40a7a31e6dceb26b82e7.bin
+    projectPath: Library\ShaderCache\c\c430528b460e40a7a31e6dceb26b82e7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\c\c4cc4ed5eb5d6cc89fcf31942f5afb6f.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\c\c4cc4ed5eb5d6cc89fcf31942f5afb6f.bin
+    projectPath: Library\ShaderCache\c\c4cc4ed5eb5d6cc89fcf31942f5afb6f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\c\c526faf765a57870d9b3a9ab7cc3a3fb.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\c\c526faf765a57870d9b3a9ab7cc3a3fb.bin
+    projectPath: Library\ShaderCache\c\c526faf765a57870d9b3a9ab7cc3a3fb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\d\d2dc769682bb847c3c0ca7628fb7975a.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\d\d2dc769682bb847c3c0ca7628fb7975a.bin
+    projectPath: Library\ShaderCache\d\d2dc769682bb847c3c0ca7628fb7975a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\d\db23cf623dc1df1750f5f0c771fb2cca.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\d\db23cf623dc1df1750f5f0c771fb2cca.bin
+    projectPath: Library\ShaderCache\d\db23cf623dc1df1750f5f0c771fb2cca.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\d\dc44b3a1503aa93b9e322607d4b226d3.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\d\dc44b3a1503aa93b9e322607d4b226d3.bin
+    projectPath: Library\ShaderCache\d\dc44b3a1503aa93b9e322607d4b226d3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\e\e37a948834839c315c4c710a8bd8e978.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\e\e37a948834839c315c4c710a8bd8e978.bin
+    projectPath: Library\ShaderCache\e\e37a948834839c315c4c710a8bd8e978.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\e\e65c849a59ece25f979469777a061f5b.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\e\e65c849a59ece25f979469777a061f5b.bin
+    projectPath: Library\ShaderCache\e\e65c849a59ece25f979469777a061f5b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\e\e9b70b8cfce2754945142265dd637292.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\e\e9b70b8cfce2754945142265dd637292.bin
+    projectPath: Library\ShaderCache\e\e9b70b8cfce2754945142265dd637292.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\e\ee33f39439968bf22097c1300caa0808.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\e\ee33f39439968bf22097c1300caa0808.bin
+    projectPath: Library\ShaderCache\e\ee33f39439968bf22097c1300caa0808.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\e\ef962bd8f5ae08b67788bad25fbb2248.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\e\ef962bd8f5ae08b67788bad25fbb2248.bin
+    projectPath: Library\ShaderCache\e\ef962bd8f5ae08b67788bad25fbb2248.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\e\eff5e15e845cdaa705b558a9da5f0245.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\e\eff5e15e845cdaa705b558a9da5f0245.bin
+    projectPath: Library\ShaderCache\e\eff5e15e845cdaa705b558a9da5f0245.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: tarffic System\Library\ShaderCache\f\f66699a280ffc030d717f065166d9d5b.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\f\f66699a280ffc030d717f065166d9d5b.bin
+    projectPath: Library\ShaderCache\f\f66699a280ffc030d717f065166d9d5b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\ShaderCache\f\f88ef99f08d512b254193d89f49c3039.bin
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\f\f88ef99f08d512b254193d89f49c3039.bin
+    projectPath: Library\ShaderCache\f\f88ef99f08d512b254193d89f49c3039.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: tarffic System\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Library\SourceAssetDB
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: tarffic System\Library\StateCache\Hierarchy\e33436-mainStage.json
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\StateCache\Hierarchy\e33436-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\e33436-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: tarffic System\Library\StateCache\SceneView\9373b3-mainStage.json
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\StateCache\SceneView\9373b3-mainStage.json
+    projectPath: Library\StateCache\SceneView\9373b3-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: tarffic System\Temp\UnityLockfile
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: tarffic System\Temp\UnityTempFile-031dcf6a2e6eaf14ab4debb6089e895a
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-031dcf6a2e6eaf14ab4debb6089e895a
+    projectPath: Temp\UnityTempFile-031dcf6a2e6eaf14ab4debb6089e895a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-09a01bee9e3444b45b137caa041d7676
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-09a01bee9e3444b45b137caa041d7676
+    projectPath: Temp\UnityTempFile-09a01bee9e3444b45b137caa041d7676
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-120724ca4c062514e88f4e89f5ba818c
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-120724ca4c062514e88f4e89f5ba818c
+    projectPath: Temp\UnityTempFile-120724ca4c062514e88f4e89f5ba818c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-29530a20a87906b47aeec24ce4d38e61
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-29530a20a87906b47aeec24ce4d38e61
+    projectPath: Temp\UnityTempFile-29530a20a87906b47aeec24ce4d38e61
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-2acb358d90d58f748a25cf66524f77bc
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-2acb358d90d58f748a25cf66524f77bc
+    projectPath: Temp\UnityTempFile-2acb358d90d58f748a25cf66524f77bc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-3c884fd20f0bbd548abca350e4f77709
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-3c884fd20f0bbd548abca350e4f77709
+    projectPath: Temp\UnityTempFile-3c884fd20f0bbd548abca350e4f77709
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-4e128ebb0da605e4bb8c9dea50322773
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-4e128ebb0da605e4bb8c9dea50322773
+    projectPath: Temp\UnityTempFile-4e128ebb0da605e4bb8c9dea50322773
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-52cf75b10c73da342a96f1aa0268bd29
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-52cf75b10c73da342a96f1aa0268bd29
+    projectPath: Temp\UnityTempFile-52cf75b10c73da342a96f1aa0268bd29
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-649e043d4d48e7a4b8158a0128f59d8c
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-649e043d4d48e7a4b8158a0128f59d8c
+    projectPath: Temp\UnityTempFile-649e043d4d48e7a4b8158a0128f59d8c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-7f004e23e0662e54580b953254b603c0
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-7f004e23e0662e54580b953254b603c0
+    projectPath: Temp\UnityTempFile-7f004e23e0662e54580b953254b603c0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-7f910f94a2c345c40821c16a7ea922f4
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-7f910f94a2c345c40821c16a7ea922f4
+    projectPath: Temp\UnityTempFile-7f910f94a2c345c40821c16a7ea922f4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-88cd13b3501085640b2f1855aa74524f
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-88cd13b3501085640b2f1855aa74524f
+    projectPath: Temp\UnityTempFile-88cd13b3501085640b2f1855aa74524f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-92eb096998e91624ab83258a76f25475
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-92eb096998e91624ab83258a76f25475
+    projectPath: Temp\UnityTempFile-92eb096998e91624ab83258a76f25475
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-98a641a12487b454d8e8f81513aa38cf
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-98a641a12487b454d8e8f81513aa38cf
+    projectPath: Temp\UnityTempFile-98a641a12487b454d8e8f81513aa38cf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-a04542d85a0a8d641a4ee8b5c5254b30
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-a04542d85a0a8d641a4ee8b5c5254b30
+    projectPath: Temp\UnityTempFile-a04542d85a0a8d641a4ee8b5c5254b30
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-a238a9f38890b0547b6bb4e1d53136b1
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-a238a9f38890b0547b6bb4e1d53136b1
+    projectPath: Temp\UnityTempFile-a238a9f38890b0547b6bb4e1d53136b1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-a4b9cdb7dc3cc1347a8c49fdc56366b7
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-a4b9cdb7dc3cc1347a8c49fdc56366b7
+    projectPath: Temp\UnityTempFile-a4b9cdb7dc3cc1347a8c49fdc56366b7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-a4ec39b6c8bb0a44e9e143da77f0d379
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-a4ec39b6c8bb0a44e9e143da77f0d379
+    projectPath: Temp\UnityTempFile-a4ec39b6c8bb0a44e9e143da77f0d379
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-ae45edc8a375aa445a85b83ddc77b677
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-ae45edc8a375aa445a85b83ddc77b677
+    projectPath: Temp\UnityTempFile-ae45edc8a375aa445a85b83ddc77b677
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-b23da4a17b09b6d498a0154cbb856fb0
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-b23da4a17b09b6d498a0154cbb856fb0
+    projectPath: Temp\UnityTempFile-b23da4a17b09b6d498a0154cbb856fb0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-b296c16c285a9f04698e22f7b636f781
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-b296c16c285a9f04698e22f7b636f781
+    projectPath: Temp\UnityTempFile-b296c16c285a9f04698e22f7b636f781
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-b605c0a3314d1df45a4390fd5711ce5b
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-b605c0a3314d1df45a4390fd5711ce5b
+    projectPath: Temp\UnityTempFile-b605c0a3314d1df45a4390fd5711ce5b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-b8db504a0b16d6d4ea0ce646987ffda5
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-b8db504a0b16d6d4ea0ce646987ffda5
+    projectPath: Temp\UnityTempFile-b8db504a0b16d6d4ea0ce646987ffda5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-bb0d9997f96adbb44a54872b4d546420
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-bb0d9997f96adbb44a54872b4d546420
+    projectPath: Temp\UnityTempFile-bb0d9997f96adbb44a54872b4d546420
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-c3a64708e8cbf4641bf5c4eb775fce57
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-c3a64708e8cbf4641bf5c4eb775fce57
+    projectPath: Temp\UnityTempFile-c3a64708e8cbf4641bf5c4eb775fce57
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-c5cac56094e4d6f449e472df9bd762b0
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-c5cac56094e4d6f449e472df9bd762b0
+    projectPath: Temp\UnityTempFile-c5cac56094e4d6f449e472df9bd762b0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-cbf5be93bb6a30b42a44ab518961e6ae
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-cbf5be93bb6a30b42a44ab518961e6ae
+    projectPath: Temp\UnityTempFile-cbf5be93bb6a30b42a44ab518961e6ae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-d3ec0bd20ee5d634da157dfb92073e5f
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-d3ec0bd20ee5d634da157dfb92073e5f
+    projectPath: Temp\UnityTempFile-d3ec0bd20ee5d634da157dfb92073e5f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-d7ff1faf2212534409cb31eb8ffdddf2
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-d7ff1faf2212534409cb31eb8ffdddf2
+    projectPath: Temp\UnityTempFile-d7ff1faf2212534409cb31eb8ffdddf2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-e5c59b488317f9c4984baebc32d7e98c
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-e5c59b488317f9c4984baebc32d7e98c
+    projectPath: Temp\UnityTempFile-e5c59b488317f9c4984baebc32d7e98c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-e6e4f1ccffda44c44aaded63324d6cd9
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-e6e4f1ccffda44c44aaded63324d6cd9
+    projectPath: Temp\UnityTempFile-e6e4f1ccffda44c44aaded63324d6cd9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-ef92fee067ecbbf47b71fa9f6fdd77d6
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-ef92fee067ecbbf47b71fa9f6fdd77d6
+    projectPath: Temp\UnityTempFile-ef92fee067ecbbf47b71fa9f6fdd77d6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-f2ce4cbff0c98c543ae998f5a14d362f
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-f2ce4cbff0c98c543ae998f5a14d362f
+    projectPath: Temp\UnityTempFile-f2ce4cbff0c98c543ae998f5a14d362f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-f43896c8053e4f14397cc0f2f40349b0
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-f43896c8053e4f14397cc0f2f40349b0
+    projectPath: Temp\UnityTempFile-f43896c8053e4f14397cc0f2f40349b0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: tarffic System\Temp\UnityTempFile-fc8cba19d232dfc4798a8673a5b4ccc9
+    fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-fc8cba19d232dfc4798a8673a5b4ccc9
+    projectPath: Temp\UnityTempFile-fc8cba19d232dfc4798a8673a5b4ccc9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
