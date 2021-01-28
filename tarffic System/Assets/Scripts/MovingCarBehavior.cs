@@ -36,24 +36,43 @@ public class MovingCarBehavior : MonoBehaviour
         }
       
     }
+    //protected void LateUpdate()
+    //{
+    //    transform.localRotation = new Vector3(0, transform.localEulerAngles.z,0 );
+    //}
+    void OnCollisionEnter(Collision other)
+    {
+        //if(other.gameObject.tag=="StopPoint")
+        //{
+        //    move = false;
+        //   StartCoroutine( wait());
+        //}
 
-   void  OnTriggerEnter(Collider other)
-    {
-        if(other.gameObject.tag=="intersectionPoint")
-          move = false;
-        else
-          speed -= 5;
- 
+        //else 
+        if (other.gameObject.tag == "vehcile")
+        {
+            if (!other.gameObject.GetComponent<MovingCarBehavior>().move)
+                move = false;
+            else
+                speed -= 5;
+        }
+
+
         Debug.Log("coliidee");
-        
-       
+
+
     }
-    void OnTriggerExit(Collider other)
+    void OnCollisionExit(Collision other)
     {
-        if (other.gameObject.tag == "intersectionPoint")
-            move = true;
-        else
-            speed += 5;
+        if (other.gameObject.tag == "vehcile")
+        {
+            if (!move)
+                move = true;
+            else
+                speed += 5;
+        }
+
+
         Debug.Log("no coliidee");
 
 

@@ -13,9 +13,2493 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-01-27T13:03:05.161+02:00
-  initializedAtString: 2021-01-27T13:03:04.719+02:00
+  lastUpdatedAtString: 2021-01-27T16:06:41.012+02:00
+  initializedAtString: 2021-01-27T16:06:41.012+02:00
   log:
+  - commitID: dd122a7267828f024ba960fa1e0c46c2dedb05ac
+    mergeA: 
+    mergeB: 
+    authorName: hendhelal
+    authorEmail: 37216323+hendhelal@users.noreply.github.com
+    commitEmail: 37216323+hendhelal@users.noreply.github.com
+    commitName: hendhelal
+    summary: path_1-stopPoints
+    description: 
+    timeString: 2021-01-27T16:06:16.000+02:00
+    commitTimeString: 2021-01-27T16:06:16.000+02:00
+    changes:
+    - path: tarffic System\Assets\Scenes\main.unity
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Scenes\main.unity
+      projectPath: Assets\Scenes\main.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Assets\Scripts.meta
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Assets\Scripts\CreatePath.cs
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Scripts\CreatePath.cs
+      projectPath: Assets\Scripts\CreatePath.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Assets\Scripts\CreatePath.cs.meta
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Scripts\CreatePath.cs.meta
+      projectPath: Assets\Scripts\CreatePath.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Assets\Scripts\MovingCarBehavior.cs
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Scripts\MovingCarBehavior.cs
+      projectPath: Assets\Scripts\MovingCarBehavior.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Assets\Scripts\MovingCarBehavior.cs.meta
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\Scripts\MovingCarBehavior.cs.meta
+      projectPath: Assets\Scripts\MovingCarBehavior.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Assets\materials.meta
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\materials.meta
+      projectPath: Assets\materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Assets\materials\stopMat.mat
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\materials\stopMat.mat
+      projectPath: Assets\materials\stopMat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Assets\materials\stopMat.mat.meta
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Assets\materials\stopMat.mat.meta
+      projectPath: Assets\materials\stopMat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\AnnotationManager
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\AnnotationManager
+      projectPath: Library\AnnotationManager
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\ArtifactDB
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\Artifacts\1c\1cb3c16f18fe3ca247015eef84179fa5
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\1c\1cb3c16f18fe3ca247015eef84179fa5
+      projectPath: Library\Artifacts\1c\1cb3c16f18fe3ca247015eef84179fa5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\Artifacts\44\4471cf0d45dd47f8cff840ac132631b8
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\44\4471cf0d45dd47f8cff840ac132631b8
+      projectPath: Library\Artifacts\44\4471cf0d45dd47f8cff840ac132631b8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\Artifacts\4a\4a2e127119a28e2772c0463ba05a3437
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\4a\4a2e127119a28e2772c0463ba05a3437
+      projectPath: Library\Artifacts\4a\4a2e127119a28e2772c0463ba05a3437
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\Artifacts\60\601af932066a2f17061e976139b26681
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\60\601af932066a2f17061e976139b26681
+      projectPath: Library\Artifacts\60\601af932066a2f17061e976139b26681
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\Artifacts\e1\e1106b7857868fc1406bc2c9ecfabb6f
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\Artifacts\e1\e1106b7857868fc1406bc2c9ecfabb6f
+      projectPath: Library\Artifacts\e1\e1106b7857868fc1406bc2c9ecfabb6f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\EditorInstance.json
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\SceneVisibilityState.asset
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\ShaderCache\0\03440b912f144d2727901b663a583df2.bin
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\0\03440b912f144d2727901b663a583df2.bin
+      projectPath: Library\ShaderCache\0\03440b912f144d2727901b663a583df2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\ShaderCache\2\2c562691bc5a3bca9146ee1bc362af75.bin
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\2\2c562691bc5a3bca9146ee1bc362af75.bin
+      projectPath: Library\ShaderCache\2\2c562691bc5a3bca9146ee1bc362af75.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\ShaderCache\6\663d21d967ca223bfac22303818b5452.bin
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\6\663d21d967ca223bfac22303818b5452.bin
+      projectPath: Library\ShaderCache\6\663d21d967ca223bfac22303818b5452.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\ShaderCache\9\94556781e3be39cea924862afda86225.bin
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\9\94556781e3be39cea924862afda86225.bin
+      projectPath: Library\ShaderCache\9\94556781e3be39cea924862afda86225.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\ShaderCache\9\973deace17a5dafc730fb28c0850d44d.bin
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\9\973deace17a5dafc730fb28c0850d44d.bin
+      projectPath: Library\ShaderCache\9\973deace17a5dafc730fb28c0850d44d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\ShaderCache\EditorEncounteredVariants
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\ShaderCache\b\be57171f189721fc09db2d2c6fde2a3c.bin
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\b\be57171f189721fc09db2d2c6fde2a3c.bin
+      projectPath: Library\ShaderCache\b\be57171f189721fc09db2d2c6fde2a3c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\ShaderCache\d\d366e5386ab336a84799472b1d644907.bin
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\d\d366e5386ab336a84799472b1d644907.bin
+      projectPath: Library\ShaderCache\d\d366e5386ab336a84799472b1d644907.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\ShaderCache\e\e39d00753e6daff1c6cc54b3ae674114.bin
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\e\e39d00753e6daff1c6cc54b3ae674114.bin
+      projectPath: Library\ShaderCache\e\e39d00753e6daff1c6cc54b3ae674114.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\ShaderCache\f\f3b96d53818ab62a78a9aced05da5ac1.bin
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\f\f3b96d53818ab62a78a9aced05da5ac1.bin
+      projectPath: Library\ShaderCache\f\f3b96d53818ab62a78a9aced05da5ac1.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\ShaderCache\f\f8e49164bc21bff776919e3ec99635d4.bin
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\f\f8e49164bc21bff776919e3ec99635d4.bin
+      projectPath: Library\ShaderCache\f\f8e49164bc21bff776919e3ec99635d4.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\ShaderCache\f\fa5ad567493ce31fffffeff2ba420e04.bin
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\f\fa5ad567493ce31fffffeff2ba420e04.bin
+      projectPath: Library\ShaderCache\f\fa5ad567493ce31fffffeff2ba420e04.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\ShaderCache\f\fcbb950720e25105c24bf32750a95a51.bin
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\ShaderCache\f\fcbb950720e25105c24bf32750a95a51.bin
+      projectPath: Library\ShaderCache\f\fcbb950720e25105c24bf32750a95a51.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Library\SourceAssetDB
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\StateCache\Hierarchy\e33436-mainStage.json
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\StateCache\Hierarchy\e33436-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\e33436-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\StateCache\SceneView\9373b3-mainStage.json
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\StateCache\SceneView\9373b3-mainStage.json
+      projectPath: Library\StateCache\SceneView\9373b3-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\ProjectSettings\TagManager.asset
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: tarffic System\Temp\UnityTempFile-b74d956db220c69448166907c85b3c24
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-b74d956db220c69448166907c85b3c24
+      projectPath: Temp\UnityTempFile-b74d956db220c69448166907c85b3c24
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Temp\UnityTempFile-c4e7bfa6408da634d9660226aa02aafe
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\UnityTempFile-c4e7bfa6408da634d9660226aa02aafe
+      projectPath: Temp\UnityTempFile-c4e7bfa6408da634d9660226aa02aafe
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-0044ec2df1e44834ea079fe2b44c04fc.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-0044ec2df1e44834ea079fe2b44c04fc.unwrap
+      projectPath: Temp\input-0044ec2df1e44834ea079fe2b44c04fc.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-01945006206fc204eb3183584d830591.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-01945006206fc204eb3183584d830591.unwrap
+      projectPath: Temp\input-01945006206fc204eb3183584d830591.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-01c4fbe2168a27741a5e25afa9acdc90.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-01c4fbe2168a27741a5e25afa9acdc90.unwrap
+      projectPath: Temp\input-01c4fbe2168a27741a5e25afa9acdc90.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-02a4b0a84377ced499d1ae7a540c8e2f.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-02a4b0a84377ced499d1ae7a540c8e2f.unwrap
+      projectPath: Temp\input-02a4b0a84377ced499d1ae7a540c8e2f.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-0335c6cae5f63bd4eb42be95b292ce99.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-0335c6cae5f63bd4eb42be95b292ce99.unwrap
+      projectPath: Temp\input-0335c6cae5f63bd4eb42be95b292ce99.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-055e284eacdaefd42973dc0b24ace78e.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-055e284eacdaefd42973dc0b24ace78e.unwrap
+      projectPath: Temp\input-055e284eacdaefd42973dc0b24ace78e.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-059eca70fea067f46b57b1f8a9930604.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-059eca70fea067f46b57b1f8a9930604.unwrap
+      projectPath: Temp\input-059eca70fea067f46b57b1f8a9930604.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-09d7f34627e4e124bb0c7dbfad865079.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-09d7f34627e4e124bb0c7dbfad865079.unwrap
+      projectPath: Temp\input-09d7f34627e4e124bb0c7dbfad865079.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-0a262efd438ec4948b5a31402b7f73a9.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-0a262efd438ec4948b5a31402b7f73a9.unwrap
+      projectPath: Temp\input-0a262efd438ec4948b5a31402b7f73a9.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-0a277e729220130408ce430387ad181e.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-0a277e729220130408ce430387ad181e.unwrap
+      projectPath: Temp\input-0a277e729220130408ce430387ad181e.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-0b8809e898809904eadf79ef9d2ed831.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-0b8809e898809904eadf79ef9d2ed831.unwrap
+      projectPath: Temp\input-0b8809e898809904eadf79ef9d2ed831.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-10dd57a3489e8a445868f1f79e51ca8f.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-10dd57a3489e8a445868f1f79e51ca8f.unwrap
+      projectPath: Temp\input-10dd57a3489e8a445868f1f79e51ca8f.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-1180c6c9f65e9d64e8901fdb184ec4a2.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-1180c6c9f65e9d64e8901fdb184ec4a2.unwrap
+      projectPath: Temp\input-1180c6c9f65e9d64e8901fdb184ec4a2.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-118e2d9ee03e4cf4d95a7db96798c0a8.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-118e2d9ee03e4cf4d95a7db96798c0a8.unwrap
+      projectPath: Temp\input-118e2d9ee03e4cf4d95a7db96798c0a8.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-12533b726370af249902d2214cab14fb.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-12533b726370af249902d2214cab14fb.unwrap
+      projectPath: Temp\input-12533b726370af249902d2214cab14fb.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-13cccd12814e20642bce1a21cfdc9739.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-13cccd12814e20642bce1a21cfdc9739.unwrap
+      projectPath: Temp\input-13cccd12814e20642bce1a21cfdc9739.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-156e5b1489cc6ba4f86c46925aa6a949.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-156e5b1489cc6ba4f86c46925aa6a949.unwrap
+      projectPath: Temp\input-156e5b1489cc6ba4f86c46925aa6a949.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-166ce4df68118654681ea22b41d2775b.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-166ce4df68118654681ea22b41d2775b.unwrap
+      projectPath: Temp\input-166ce4df68118654681ea22b41d2775b.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-1795bb5931085454da7488219e284311.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-1795bb5931085454da7488219e284311.unwrap
+      projectPath: Temp\input-1795bb5931085454da7488219e284311.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-19db8d6bdf6956d4fa851d6937e4763e.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-19db8d6bdf6956d4fa851d6937e4763e.unwrap
+      projectPath: Temp\input-19db8d6bdf6956d4fa851d6937e4763e.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-1af4284e383ef0e43b4f30393ff24b9f.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-1af4284e383ef0e43b4f30393ff24b9f.unwrap
+      projectPath: Temp\input-1af4284e383ef0e43b4f30393ff24b9f.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-1f13a0949079dfd43aef7091160f3a53.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-1f13a0949079dfd43aef7091160f3a53.unwrap
+      projectPath: Temp\input-1f13a0949079dfd43aef7091160f3a53.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-1f6a83a1e8e934a4693f46ec2f83cbdd.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-1f6a83a1e8e934a4693f46ec2f83cbdd.unwrap
+      projectPath: Temp\input-1f6a83a1e8e934a4693f46ec2f83cbdd.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-20512e216ef96b746bec3fb468b220b1.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-20512e216ef96b746bec3fb468b220b1.unwrap
+      projectPath: Temp\input-20512e216ef96b746bec3fb468b220b1.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-228603bf749fb444db07a47c119c3fe9.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-228603bf749fb444db07a47c119c3fe9.unwrap
+      projectPath: Temp\input-228603bf749fb444db07a47c119c3fe9.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-248434a81ff74734990a529efdee70b8.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-248434a81ff74734990a529efdee70b8.unwrap
+      projectPath: Temp\input-248434a81ff74734990a529efdee70b8.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-25591b9979eb15245b71bcca60204108.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-25591b9979eb15245b71bcca60204108.unwrap
+      projectPath: Temp\input-25591b9979eb15245b71bcca60204108.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-267706c8687ea5745b244895a7042a7c.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-267706c8687ea5745b244895a7042a7c.unwrap
+      projectPath: Temp\input-267706c8687ea5745b244895a7042a7c.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-27f956cec3b42b840b1de61a8cabec9a.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-27f956cec3b42b840b1de61a8cabec9a.unwrap
+      projectPath: Temp\input-27f956cec3b42b840b1de61a8cabec9a.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-281e037625b814349a7130485e12d955.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-281e037625b814349a7130485e12d955.unwrap
+      projectPath: Temp\input-281e037625b814349a7130485e12d955.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-2ba13b91526b87f45b8884a5446de2c1.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-2ba13b91526b87f45b8884a5446de2c1.unwrap
+      projectPath: Temp\input-2ba13b91526b87f45b8884a5446de2c1.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-2ef714c38764ebf44a1bc5c4976bf81b.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-2ef714c38764ebf44a1bc5c4976bf81b.unwrap
+      projectPath: Temp\input-2ef714c38764ebf44a1bc5c4976bf81b.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-314862d4881d42a4da66c7b5149022b0.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-314862d4881d42a4da66c7b5149022b0.unwrap
+      projectPath: Temp\input-314862d4881d42a4da66c7b5149022b0.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-32769b79452a8424cb50ed080701f13a.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-32769b79452a8424cb50ed080701f13a.unwrap
+      projectPath: Temp\input-32769b79452a8424cb50ed080701f13a.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-32b1a037b2986c6499de74886c6cb14a.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-32b1a037b2986c6499de74886c6cb14a.unwrap
+      projectPath: Temp\input-32b1a037b2986c6499de74886c6cb14a.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-3496634a87f77dd4a89c7dd94a274558.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-3496634a87f77dd4a89c7dd94a274558.unwrap
+      projectPath: Temp\input-3496634a87f77dd4a89c7dd94a274558.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-34b2072366d544345b01c760f82b3570.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-34b2072366d544345b01c760f82b3570.unwrap
+      projectPath: Temp\input-34b2072366d544345b01c760f82b3570.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-3563ea0523fb116449db65d018de854b.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-3563ea0523fb116449db65d018de854b.unwrap
+      projectPath: Temp\input-3563ea0523fb116449db65d018de854b.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-35ba04a776b8e054f83f04df1c0fdb42.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-35ba04a776b8e054f83f04df1c0fdb42.unwrap
+      projectPath: Temp\input-35ba04a776b8e054f83f04df1c0fdb42.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-35c9887f71f923345aa566fdf30c120e.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-35c9887f71f923345aa566fdf30c120e.unwrap
+      projectPath: Temp\input-35c9887f71f923345aa566fdf30c120e.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-377fe65c60e1c3b40a270add5e490f6d.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-377fe65c60e1c3b40a270add5e490f6d.unwrap
+      projectPath: Temp\input-377fe65c60e1c3b40a270add5e490f6d.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-37abb402b71814f428df7abde9feaebf.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-37abb402b71814f428df7abde9feaebf.unwrap
+      projectPath: Temp\input-37abb402b71814f428df7abde9feaebf.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-37c0088f0cedc8145ab7eeba56c327d1.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-37c0088f0cedc8145ab7eeba56c327d1.unwrap
+      projectPath: Temp\input-37c0088f0cedc8145ab7eeba56c327d1.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-3945cc9f1b426704a977727d8c68044d.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-3945cc9f1b426704a977727d8c68044d.unwrap
+      projectPath: Temp\input-3945cc9f1b426704a977727d8c68044d.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-39798728baa56ab4fba4cf70cbe9648e.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-39798728baa56ab4fba4cf70cbe9648e.unwrap
+      projectPath: Temp\input-39798728baa56ab4fba4cf70cbe9648e.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-3a4ea62ffdd18834b8da9d447cdb5694.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-3a4ea62ffdd18834b8da9d447cdb5694.unwrap
+      projectPath: Temp\input-3a4ea62ffdd18834b8da9d447cdb5694.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-3a513fb6a569c93438bfe08209a7fa75.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-3a513fb6a569c93438bfe08209a7fa75.unwrap
+      projectPath: Temp\input-3a513fb6a569c93438bfe08209a7fa75.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-3c40dc417538b014081317f26f0f59c8.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-3c40dc417538b014081317f26f0f59c8.unwrap
+      projectPath: Temp\input-3c40dc417538b014081317f26f0f59c8.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-3d66b9fca1f7c784ea320ed7483ac424.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-3d66b9fca1f7c784ea320ed7483ac424.unwrap
+      projectPath: Temp\input-3d66b9fca1f7c784ea320ed7483ac424.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-3f6a8aab281b82a45b2e7637d56246e1.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-3f6a8aab281b82a45b2e7637d56246e1.unwrap
+      projectPath: Temp\input-3f6a8aab281b82a45b2e7637d56246e1.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-403afe48ac003734c93d86cbaed219ac.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-403afe48ac003734c93d86cbaed219ac.unwrap
+      projectPath: Temp\input-403afe48ac003734c93d86cbaed219ac.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-421ea930aae3ce94b9a77516c4c94ac9.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-421ea930aae3ce94b9a77516c4c94ac9.unwrap
+      projectPath: Temp\input-421ea930aae3ce94b9a77516c4c94ac9.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-424dfe8d62a18834daf8ffff49d543b1.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-424dfe8d62a18834daf8ffff49d543b1.unwrap
+      projectPath: Temp\input-424dfe8d62a18834daf8ffff49d543b1.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-42ecd238aedcdc04c863312921f3b260.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-42ecd238aedcdc04c863312921f3b260.unwrap
+      projectPath: Temp\input-42ecd238aedcdc04c863312921f3b260.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-43d992022cf29854da376738d2894499.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-43d992022cf29854da376738d2894499.unwrap
+      projectPath: Temp\input-43d992022cf29854da376738d2894499.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-450b99e5cf7446e4d8c9d69194cd6619.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-450b99e5cf7446e4d8c9d69194cd6619.unwrap
+      projectPath: Temp\input-450b99e5cf7446e4d8c9d69194cd6619.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-456e0fd6b939a02499ddb2a0af94f01d.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-456e0fd6b939a02499ddb2a0af94f01d.unwrap
+      projectPath: Temp\input-456e0fd6b939a02499ddb2a0af94f01d.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-465044ad80af8d84193860ad924466d5.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-465044ad80af8d84193860ad924466d5.unwrap
+      projectPath: Temp\input-465044ad80af8d84193860ad924466d5.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-468eb1bde34da514f9768dc1aab2157d.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-468eb1bde34da514f9768dc1aab2157d.unwrap
+      projectPath: Temp\input-468eb1bde34da514f9768dc1aab2157d.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-47089681ac68465459db36b963b94ce6.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-47089681ac68465459db36b963b94ce6.unwrap
+      projectPath: Temp\input-47089681ac68465459db36b963b94ce6.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-47e4bf118ada4dc4f9be36d8579ae801.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-47e4bf118ada4dc4f9be36d8579ae801.unwrap
+      projectPath: Temp\input-47e4bf118ada4dc4f9be36d8579ae801.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-48a705cd7a0f21f44a93b16f387e2726.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-48a705cd7a0f21f44a93b16f387e2726.unwrap
+      projectPath: Temp\input-48a705cd7a0f21f44a93b16f387e2726.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-4b2502790da648b449d1e05357e967c2.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-4b2502790da648b449d1e05357e967c2.unwrap
+      projectPath: Temp\input-4b2502790da648b449d1e05357e967c2.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-4bdf5ffec3eaa1143955b73ea63ba5e9.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-4bdf5ffec3eaa1143955b73ea63ba5e9.unwrap
+      projectPath: Temp\input-4bdf5ffec3eaa1143955b73ea63ba5e9.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-4e3531fdc4630d744b1ef27b9657e9fb.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-4e3531fdc4630d744b1ef27b9657e9fb.unwrap
+      projectPath: Temp\input-4e3531fdc4630d744b1ef27b9657e9fb.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-5005467c97d774241ab8b16667cf2bb4.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-5005467c97d774241ab8b16667cf2bb4.unwrap
+      projectPath: Temp\input-5005467c97d774241ab8b16667cf2bb4.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-5030bd21452eeda46a41fb3f0c2c2f67.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-5030bd21452eeda46a41fb3f0c2c2f67.unwrap
+      projectPath: Temp\input-5030bd21452eeda46a41fb3f0c2c2f67.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-5072fa8479de01e4e8681b2f7dd73d8c.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-5072fa8479de01e4e8681b2f7dd73d8c.unwrap
+      projectPath: Temp\input-5072fa8479de01e4e8681b2f7dd73d8c.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-509be51885165b346ab64f753f5fb4a9.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-509be51885165b346ab64f753f5fb4a9.unwrap
+      projectPath: Temp\input-509be51885165b346ab64f753f5fb4a9.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-519702a9f619ea14a9529aede401848e.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-519702a9f619ea14a9529aede401848e.unwrap
+      projectPath: Temp\input-519702a9f619ea14a9529aede401848e.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-561197ed220a63d43bc22e6d76ca7b86.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-561197ed220a63d43bc22e6d76ca7b86.unwrap
+      projectPath: Temp\input-561197ed220a63d43bc22e6d76ca7b86.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-57114e48afcb4b9468717584950555b1.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-57114e48afcb4b9468717584950555b1.unwrap
+      projectPath: Temp\input-57114e48afcb4b9468717584950555b1.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-57bef43e866c64541adfede3774c70c0.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-57bef43e866c64541adfede3774c70c0.unwrap
+      projectPath: Temp\input-57bef43e866c64541adfede3774c70c0.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-5966affccb533624daae03587dbe5f6d.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-5966affccb533624daae03587dbe5f6d.unwrap
+      projectPath: Temp\input-5966affccb533624daae03587dbe5f6d.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-5a49dff6ee7980b49a979dac654c5fef.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-5a49dff6ee7980b49a979dac654c5fef.unwrap
+      projectPath: Temp\input-5a49dff6ee7980b49a979dac654c5fef.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-5a5b57fe217324146a8756ae6649d3c7.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-5a5b57fe217324146a8756ae6649d3c7.unwrap
+      projectPath: Temp\input-5a5b57fe217324146a8756ae6649d3c7.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-622dca4c2817af546922e3265e4d961d.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-622dca4c2817af546922e3265e4d961d.unwrap
+      projectPath: Temp\input-622dca4c2817af546922e3265e4d961d.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-62c0572850070794e9219b9b17b5794b.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-62c0572850070794e9219b9b17b5794b.unwrap
+      projectPath: Temp\input-62c0572850070794e9219b9b17b5794b.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-633394a914c3d72489044be33011d711.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-633394a914c3d72489044be33011d711.unwrap
+      projectPath: Temp\input-633394a914c3d72489044be33011d711.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-66adb5eac7366cc40858bdcdea0bd91e.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-66adb5eac7366cc40858bdcdea0bd91e.unwrap
+      projectPath: Temp\input-66adb5eac7366cc40858bdcdea0bd91e.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-6a799484fb6afc94bad66553d4db17e9.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-6a799484fb6afc94bad66553d4db17e9.unwrap
+      projectPath: Temp\input-6a799484fb6afc94bad66553d4db17e9.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-6b9cbc12778692d4fb104ffcf4a32dc1.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-6b9cbc12778692d4fb104ffcf4a32dc1.unwrap
+      projectPath: Temp\input-6b9cbc12778692d4fb104ffcf4a32dc1.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-720946b540c066b41a59d8e844ebf825.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-720946b540c066b41a59d8e844ebf825.unwrap
+      projectPath: Temp\input-720946b540c066b41a59d8e844ebf825.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-72a18c4be97ea0f449233fa0c062772e.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-72a18c4be97ea0f449233fa0c062772e.unwrap
+      projectPath: Temp\input-72a18c4be97ea0f449233fa0c062772e.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-757421a0fb9639047bbcaea3b02f6851.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-757421a0fb9639047bbcaea3b02f6851.unwrap
+      projectPath: Temp\input-757421a0fb9639047bbcaea3b02f6851.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-75fa57b971385e34785a92173b969ae5.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-75fa57b971385e34785a92173b969ae5.unwrap
+      projectPath: Temp\input-75fa57b971385e34785a92173b969ae5.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-776d835d99813e74a8d7ef039511aa29.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-776d835d99813e74a8d7ef039511aa29.unwrap
+      projectPath: Temp\input-776d835d99813e74a8d7ef039511aa29.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-77d7bf624f1adc343adfb70dd5c34643.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-77d7bf624f1adc343adfb70dd5c34643.unwrap
+      projectPath: Temp\input-77d7bf624f1adc343adfb70dd5c34643.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-7a0ddfe757a3bcd41871c3457167facf.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-7a0ddfe757a3bcd41871c3457167facf.unwrap
+      projectPath: Temp\input-7a0ddfe757a3bcd41871c3457167facf.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-7a90611191cc3a14f9a1e0ae39bc1d5b.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-7a90611191cc3a14f9a1e0ae39bc1d5b.unwrap
+      projectPath: Temp\input-7a90611191cc3a14f9a1e0ae39bc1d5b.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-7e4565286c6e77d4b9b2566a825e6525.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-7e4565286c6e77d4b9b2566a825e6525.unwrap
+      projectPath: Temp\input-7e4565286c6e77d4b9b2566a825e6525.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-7f4d499e3b3cef84f8dba2508cbf01f8.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-7f4d499e3b3cef84f8dba2508cbf01f8.unwrap
+      projectPath: Temp\input-7f4d499e3b3cef84f8dba2508cbf01f8.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-81624bc212372c04084c918ca20fb2c7.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-81624bc212372c04084c918ca20fb2c7.unwrap
+      projectPath: Temp\input-81624bc212372c04084c918ca20fb2c7.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-84c8b7ec412763f45824b97158571221.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-84c8b7ec412763f45824b97158571221.unwrap
+      projectPath: Temp\input-84c8b7ec412763f45824b97158571221.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-864ddaa9cb6274f408d2caa709ce3d03.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-864ddaa9cb6274f408d2caa709ce3d03.unwrap
+      projectPath: Temp\input-864ddaa9cb6274f408d2caa709ce3d03.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-86993fd9c785f9941977223edd8c301a.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-86993fd9c785f9941977223edd8c301a.unwrap
+      projectPath: Temp\input-86993fd9c785f9941977223edd8c301a.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-87db95687b53f784a98ddb4693619384.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-87db95687b53f784a98ddb4693619384.unwrap
+      projectPath: Temp\input-87db95687b53f784a98ddb4693619384.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-8b8fce551ba2e54479184ea89ae7ae08.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-8b8fce551ba2e54479184ea89ae7ae08.unwrap
+      projectPath: Temp\input-8b8fce551ba2e54479184ea89ae7ae08.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-8f4826d7630d2e845b80fde8f1166def.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-8f4826d7630d2e845b80fde8f1166def.unwrap
+      projectPath: Temp\input-8f4826d7630d2e845b80fde8f1166def.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-8f5442b8bb7461c40ab264e6b7f84356.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-8f5442b8bb7461c40ab264e6b7f84356.unwrap
+      projectPath: Temp\input-8f5442b8bb7461c40ab264e6b7f84356.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-92060e78c78f3924fa4ae4924868ec40.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-92060e78c78f3924fa4ae4924868ec40.unwrap
+      projectPath: Temp\input-92060e78c78f3924fa4ae4924868ec40.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-92242d29d6eb9a847908a22fc8fd7a5f.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-92242d29d6eb9a847908a22fc8fd7a5f.unwrap
+      projectPath: Temp\input-92242d29d6eb9a847908a22fc8fd7a5f.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-94857d6f180fc6641b75c56830b54ad9.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-94857d6f180fc6641b75c56830b54ad9.unwrap
+      projectPath: Temp\input-94857d6f180fc6641b75c56830b54ad9.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-96e8807938f9fb74cb2c594df1817571.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-96e8807938f9fb74cb2c594df1817571.unwrap
+      projectPath: Temp\input-96e8807938f9fb74cb2c594df1817571.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-978a71873046454428b4b811fd8c9e77.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-978a71873046454428b4b811fd8c9e77.unwrap
+      projectPath: Temp\input-978a71873046454428b4b811fd8c9e77.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-99cda591dbd574f4091673ee2b4bd627.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-99cda591dbd574f4091673ee2b4bd627.unwrap
+      projectPath: Temp\input-99cda591dbd574f4091673ee2b4bd627.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-9ae0589d1157b374f9ac36ecc2c3be45.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-9ae0589d1157b374f9ac36ecc2c3be45.unwrap
+      projectPath: Temp\input-9ae0589d1157b374f9ac36ecc2c3be45.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-9be53edb3244cb44a90d6a639257ed50.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-9be53edb3244cb44a90d6a639257ed50.unwrap
+      projectPath: Temp\input-9be53edb3244cb44a90d6a639257ed50.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-a02445e149026c14a920e8d3d98d1acf.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-a02445e149026c14a920e8d3d98d1acf.unwrap
+      projectPath: Temp\input-a02445e149026c14a920e8d3d98d1acf.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-a2c896e17ad5cbf419f979618ea4d68d.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-a2c896e17ad5cbf419f979618ea4d68d.unwrap
+      projectPath: Temp\input-a2c896e17ad5cbf419f979618ea4d68d.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-a2fc0c3ae4a6916419927781a8a1c1db.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-a2fc0c3ae4a6916419927781a8a1c1db.unwrap
+      projectPath: Temp\input-a2fc0c3ae4a6916419927781a8a1c1db.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-a438f3bf111aa6540bfd06a68e738604.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-a438f3bf111aa6540bfd06a68e738604.unwrap
+      projectPath: Temp\input-a438f3bf111aa6540bfd06a68e738604.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-a6f27e3744bbf2247a708d4d714240ed.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-a6f27e3744bbf2247a708d4d714240ed.unwrap
+      projectPath: Temp\input-a6f27e3744bbf2247a708d4d714240ed.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-a7832f63cbc8d9146b54145f8b2b7b71.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-a7832f63cbc8d9146b54145f8b2b7b71.unwrap
+      projectPath: Temp\input-a7832f63cbc8d9146b54145f8b2b7b71.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-a9ebebcd40d265d43a54c1c653785529.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-a9ebebcd40d265d43a54c1c653785529.unwrap
+      projectPath: Temp\input-a9ebebcd40d265d43a54c1c653785529.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-aa8361e8c09f6d94488b08a3f0c53ec2.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-aa8361e8c09f6d94488b08a3f0c53ec2.unwrap
+      projectPath: Temp\input-aa8361e8c09f6d94488b08a3f0c53ec2.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-aac41cdb06a5c7043a830e6477610b30.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-aac41cdb06a5c7043a830e6477610b30.unwrap
+      projectPath: Temp\input-aac41cdb06a5c7043a830e6477610b30.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-ac63d8a16d3324244aed5c7f2d704961.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-ac63d8a16d3324244aed5c7f2d704961.unwrap
+      projectPath: Temp\input-ac63d8a16d3324244aed5c7f2d704961.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-ac6ad45448bb297459a685e19bab7929.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-ac6ad45448bb297459a685e19bab7929.unwrap
+      projectPath: Temp\input-ac6ad45448bb297459a685e19bab7929.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-b0610cd29887ee944840e55347747267.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-b0610cd29887ee944840e55347747267.unwrap
+      projectPath: Temp\input-b0610cd29887ee944840e55347747267.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-b0d59b0f183626c489eec7dcd01a6a4c.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-b0d59b0f183626c489eec7dcd01a6a4c.unwrap
+      projectPath: Temp\input-b0d59b0f183626c489eec7dcd01a6a4c.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-b3fab9cd03e677d4fa892036eb7259b5.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-b3fab9cd03e677d4fa892036eb7259b5.unwrap
+      projectPath: Temp\input-b3fab9cd03e677d4fa892036eb7259b5.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-b434ce30a018de84ca8866c8238f6d51.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-b434ce30a018de84ca8866c8238f6d51.unwrap
+      projectPath: Temp\input-b434ce30a018de84ca8866c8238f6d51.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-b46f7c1aaecb1b44886002bb0f3a2d2e.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-b46f7c1aaecb1b44886002bb0f3a2d2e.unwrap
+      projectPath: Temp\input-b46f7c1aaecb1b44886002bb0f3a2d2e.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-b584f02a44609e34fa2a8e6cdba452e9.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-b584f02a44609e34fa2a8e6cdba452e9.unwrap
+      projectPath: Temp\input-b584f02a44609e34fa2a8e6cdba452e9.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-b6afb759fae87524caa633d368c1e9ac.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-b6afb759fae87524caa633d368c1e9ac.unwrap
+      projectPath: Temp\input-b6afb759fae87524caa633d368c1e9ac.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-b7488145e20f20e44ae4a233623ebd41.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-b7488145e20f20e44ae4a233623ebd41.unwrap
+      projectPath: Temp\input-b7488145e20f20e44ae4a233623ebd41.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-b8c61b21b509a5443ab966bbd3f3378b.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-b8c61b21b509a5443ab966bbd3f3378b.unwrap
+      projectPath: Temp\input-b8c61b21b509a5443ab966bbd3f3378b.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-b9804b56901e55c429b0b45d42cde1d4.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-b9804b56901e55c429b0b45d42cde1d4.unwrap
+      projectPath: Temp\input-b9804b56901e55c429b0b45d42cde1d4.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-ba6260ccf4f449a47bcdf403871a4cda.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-ba6260ccf4f449a47bcdf403871a4cda.unwrap
+      projectPath: Temp\input-ba6260ccf4f449a47bcdf403871a4cda.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-bac4888b64725a84492dd481e2f5d7c3.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-bac4888b64725a84492dd481e2f5d7c3.unwrap
+      projectPath: Temp\input-bac4888b64725a84492dd481e2f5d7c3.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-bc2dba4280db8a144992ef82625d3a5d.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-bc2dba4280db8a144992ef82625d3a5d.unwrap
+      projectPath: Temp\input-bc2dba4280db8a144992ef82625d3a5d.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-bcd50fb7fe8265f489a1e749e352108b.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-bcd50fb7fe8265f489a1e749e352108b.unwrap
+      projectPath: Temp\input-bcd50fb7fe8265f489a1e749e352108b.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-beb4e027c79a4b94abdb3f31ebcd74de.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-beb4e027c79a4b94abdb3f31ebcd74de.unwrap
+      projectPath: Temp\input-beb4e027c79a4b94abdb3f31ebcd74de.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-bf3ac40a67ea9c94aa3992b168b6eb71.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-bf3ac40a67ea9c94aa3992b168b6eb71.unwrap
+      projectPath: Temp\input-bf3ac40a67ea9c94aa3992b168b6eb71.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-bf3e3961d78663140861f1bb1c541f65.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-bf3e3961d78663140861f1bb1c541f65.unwrap
+      projectPath: Temp\input-bf3e3961d78663140861f1bb1c541f65.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-bfc86373ace951b4fa5142fb289a5411.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-bfc86373ace951b4fa5142fb289a5411.unwrap
+      projectPath: Temp\input-bfc86373ace951b4fa5142fb289a5411.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-c27f8f32d747ea649adb83ac888fd44d.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-c27f8f32d747ea649adb83ac888fd44d.unwrap
+      projectPath: Temp\input-c27f8f32d747ea649adb83ac888fd44d.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-c41716b3df8933545abae43bb26b704c.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-c41716b3df8933545abae43bb26b704c.unwrap
+      projectPath: Temp\input-c41716b3df8933545abae43bb26b704c.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-c517b64f4a680ca4db83c90bff968444.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-c517b64f4a680ca4db83c90bff968444.unwrap
+      projectPath: Temp\input-c517b64f4a680ca4db83c90bff968444.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-c5cda43f9f819644db9e43cf8dd28364.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-c5cda43f9f819644db9e43cf8dd28364.unwrap
+      projectPath: Temp\input-c5cda43f9f819644db9e43cf8dd28364.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-c6d98b9f4e86b084baa75d1b6d976610.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-c6d98b9f4e86b084baa75d1b6d976610.unwrap
+      projectPath: Temp\input-c6d98b9f4e86b084baa75d1b6d976610.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-c74a68666596d4d4a95c0a6e301ccc50.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-c74a68666596d4d4a95c0a6e301ccc50.unwrap
+      projectPath: Temp\input-c74a68666596d4d4a95c0a6e301ccc50.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-c74f399016c898441a6dcd9ec633df85.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-c74f399016c898441a6dcd9ec633df85.unwrap
+      projectPath: Temp\input-c74f399016c898441a6dcd9ec633df85.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-c9e19a3c0717e7347b8b47824cd4b6eb.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-c9e19a3c0717e7347b8b47824cd4b6eb.unwrap
+      projectPath: Temp\input-c9e19a3c0717e7347b8b47824cd4b6eb.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-cca67f97508c38c449467536327638a1.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-cca67f97508c38c449467536327638a1.unwrap
+      projectPath: Temp\input-cca67f97508c38c449467536327638a1.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-cd71ddcee1f9388499f3d37831c6d1da.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-cd71ddcee1f9388499f3d37831c6d1da.unwrap
+      projectPath: Temp\input-cd71ddcee1f9388499f3d37831c6d1da.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-d1c1375e8d89726449bdf937fa164dd2.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-d1c1375e8d89726449bdf937fa164dd2.unwrap
+      projectPath: Temp\input-d1c1375e8d89726449bdf937fa164dd2.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-d24cf641ffa6e9e45a00c1e9e3e1f676.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-d24cf641ffa6e9e45a00c1e9e3e1f676.unwrap
+      projectPath: Temp\input-d24cf641ffa6e9e45a00c1e9e3e1f676.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-d38481a026c83cc4997753ad7e059a55.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-d38481a026c83cc4997753ad7e059a55.unwrap
+      projectPath: Temp\input-d38481a026c83cc4997753ad7e059a55.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-d3b6aea9519d38a46850d1328b5a0c6f.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-d3b6aea9519d38a46850d1328b5a0c6f.unwrap
+      projectPath: Temp\input-d3b6aea9519d38a46850d1328b5a0c6f.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-d44c2e3c7e82f0143820ae5a4c18380d.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-d44c2e3c7e82f0143820ae5a4c18380d.unwrap
+      projectPath: Temp\input-d44c2e3c7e82f0143820ae5a4c18380d.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-d4ff790a549e59449a293db2a2110cad.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-d4ff790a549e59449a293db2a2110cad.unwrap
+      projectPath: Temp\input-d4ff790a549e59449a293db2a2110cad.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-d5876d574daed1b4eb10d182c6ceaee4.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-d5876d574daed1b4eb10d182c6ceaee4.unwrap
+      projectPath: Temp\input-d5876d574daed1b4eb10d182c6ceaee4.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-d67ee10201171b649905a8b9aef33535.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-d67ee10201171b649905a8b9aef33535.unwrap
+      projectPath: Temp\input-d67ee10201171b649905a8b9aef33535.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-d77a6b0e0a624b248b3ee9aefe1690c5.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-d77a6b0e0a624b248b3ee9aefe1690c5.unwrap
+      projectPath: Temp\input-d77a6b0e0a624b248b3ee9aefe1690c5.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-d8fbbb2a32bef3d4bb35a132b6f6b62c.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-d8fbbb2a32bef3d4bb35a132b6f6b62c.unwrap
+      projectPath: Temp\input-d8fbbb2a32bef3d4bb35a132b6f6b62c.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-d9c8405bb5df76740ab02f1bea43599e.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-d9c8405bb5df76740ab02f1bea43599e.unwrap
+      projectPath: Temp\input-d9c8405bb5df76740ab02f1bea43599e.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-da7476d8aec11c247bac1d1af445ba9d.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-da7476d8aec11c247bac1d1af445ba9d.unwrap
+      projectPath: Temp\input-da7476d8aec11c247bac1d1af445ba9d.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-dbeb916b51a24b541b284dc2f2409c83.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-dbeb916b51a24b541b284dc2f2409c83.unwrap
+      projectPath: Temp\input-dbeb916b51a24b541b284dc2f2409c83.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-dd6be38c031bb294cbfd49df968b1961.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-dd6be38c031bb294cbfd49df968b1961.unwrap
+      projectPath: Temp\input-dd6be38c031bb294cbfd49df968b1961.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-e0df3e593b625174a86d00189f2966ca.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-e0df3e593b625174a86d00189f2966ca.unwrap
+      projectPath: Temp\input-e0df3e593b625174a86d00189f2966ca.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-e1a7e8b9873cd08498b04ff925ff8951.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-e1a7e8b9873cd08498b04ff925ff8951.unwrap
+      projectPath: Temp\input-e1a7e8b9873cd08498b04ff925ff8951.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-e23800f29cecc2c41917b7717e713cfd.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-e23800f29cecc2c41917b7717e713cfd.unwrap
+      projectPath: Temp\input-e23800f29cecc2c41917b7717e713cfd.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-e618db6408c9a76428ddb71ca9a5f199.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-e618db6408c9a76428ddb71ca9a5f199.unwrap
+      projectPath: Temp\input-e618db6408c9a76428ddb71ca9a5f199.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-e6416acd26209b3469636c134b33bf5a.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-e6416acd26209b3469636c134b33bf5a.unwrap
+      projectPath: Temp\input-e6416acd26209b3469636c134b33bf5a.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-e6dc0209398242645b0316b1da13a909.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-e6dc0209398242645b0316b1da13a909.unwrap
+      projectPath: Temp\input-e6dc0209398242645b0316b1da13a909.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-e9b14510ac033204cad4db02a7e1ea97.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-e9b14510ac033204cad4db02a7e1ea97.unwrap
+      projectPath: Temp\input-e9b14510ac033204cad4db02a7e1ea97.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-e9c9e860f0e994a4791c694296025906.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-e9c9e860f0e994a4791c694296025906.unwrap
+      projectPath: Temp\input-e9c9e860f0e994a4791c694296025906.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-ed0145b0d4611394a903f531ab6d2f75.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-ed0145b0d4611394a903f531ab6d2f75.unwrap
+      projectPath: Temp\input-ed0145b0d4611394a903f531ab6d2f75.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-ed0d8fa2c663ac042be4e679756277e2.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-ed0d8fa2c663ac042be4e679756277e2.unwrap
+      projectPath: Temp\input-ed0d8fa2c663ac042be4e679756277e2.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-ed79e51ab1fa14c4cb1e53ed4374223b.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-ed79e51ab1fa14c4cb1e53ed4374223b.unwrap
+      projectPath: Temp\input-ed79e51ab1fa14c4cb1e53ed4374223b.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-ef226b972af4b8648b257b77fe395e90.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-ef226b972af4b8648b257b77fe395e90.unwrap
+      projectPath: Temp\input-ef226b972af4b8648b257b77fe395e90.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-f0453c43f0d6ce84197703f2a8d9a16b.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-f0453c43f0d6ce84197703f2a8d9a16b.unwrap
+      projectPath: Temp\input-f0453c43f0d6ce84197703f2a8d9a16b.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-f202bfc5c8dec9f4aaf8ea2b48bfcfcb.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-f202bfc5c8dec9f4aaf8ea2b48bfcfcb.unwrap
+      projectPath: Temp\input-f202bfc5c8dec9f4aaf8ea2b48bfcfcb.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-f85db33ffe24396488a7ab9cb70ba995.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-f85db33ffe24396488a7ab9cb70ba995.unwrap
+      projectPath: Temp\input-f85db33ffe24396488a7ab9cb70ba995.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-f87377dc17daf014d8ea520ff8651f01.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-f87377dc17daf014d8ea520ff8651f01.unwrap
+      projectPath: Temp\input-f87377dc17daf014d8ea520ff8651f01.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-fb0a9ab805c34ac4a8ba8ceb692d97df.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-fb0a9ab805c34ac4a8ba8ceb692d97df.unwrap
+      projectPath: Temp\input-fb0a9ab805c34ac4a8ba8ceb692d97df.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-fb272d6370441e349935c014f8d2468a.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-fb272d6370441e349935c014f8d2468a.unwrap
+      projectPath: Temp\input-fb272d6370441e349935c014f8d2468a.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-fb3964aa1a09877438aca809379db570.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-fb3964aa1a09877438aca809379db570.unwrap
+      projectPath: Temp\input-fb3964aa1a09877438aca809379db570.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\input-ffba00e9026b29544a02f56bc7974bda.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\input-ffba00e9026b29544a02f56bc7974bda.unwrap
+      projectPath: Temp\input-ffba00e9026b29544a02f56bc7974bda.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-006ce68ef467ca54985f099631232c0a.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-006ce68ef467ca54985f099631232c0a.unwrap
+      projectPath: Temp\output-006ce68ef467ca54985f099631232c0a.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-02c66a998fcc3604b99f4e5c30501746.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-02c66a998fcc3604b99f4e5c30501746.unwrap
+      projectPath: Temp\output-02c66a998fcc3604b99f4e5c30501746.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-03958911d98fe894ba7cd4ceab416a7e.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-03958911d98fe894ba7cd4ceab416a7e.unwrap
+      projectPath: Temp\output-03958911d98fe894ba7cd4ceab416a7e.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-04335542f91317744ac42513c1e50175.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-04335542f91317744ac42513c1e50175.unwrap
+      projectPath: Temp\output-04335542f91317744ac42513c1e50175.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-05e2a74806c40ff43b47db3276936222.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-05e2a74806c40ff43b47db3276936222.unwrap
+      projectPath: Temp\output-05e2a74806c40ff43b47db3276936222.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-0e6b5f1f3e70dfb4694fafcd385836f3.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-0e6b5f1f3e70dfb4694fafcd385836f3.unwrap
+      projectPath: Temp\output-0e6b5f1f3e70dfb4694fafcd385836f3.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-1151f802d6cdf4c4e8c267669e7036a3.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-1151f802d6cdf4c4e8c267669e7036a3.unwrap
+      projectPath: Temp\output-1151f802d6cdf4c4e8c267669e7036a3.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-137d08fa2604e64409e4fdf1634e35b9.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-137d08fa2604e64409e4fdf1634e35b9.unwrap
+      projectPath: Temp\output-137d08fa2604e64409e4fdf1634e35b9.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-13d3b2d4c4110a44a947cc9b4da90a92.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-13d3b2d4c4110a44a947cc9b4da90a92.unwrap
+      projectPath: Temp\output-13d3b2d4c4110a44a947cc9b4da90a92.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-1441c3d02d9c2e44cb9cb9b95b3fdb18.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-1441c3d02d9c2e44cb9cb9b95b3fdb18.unwrap
+      projectPath: Temp\output-1441c3d02d9c2e44cb9cb9b95b3fdb18.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-158dbf7051cc8a94083296b02356f2fb.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-158dbf7051cc8a94083296b02356f2fb.unwrap
+      projectPath: Temp\output-158dbf7051cc8a94083296b02356f2fb.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-1ce648e11709b024c9db0959099c1cf8.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-1ce648e11709b024c9db0959099c1cf8.unwrap
+      projectPath: Temp\output-1ce648e11709b024c9db0959099c1cf8.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-1dbb0850809ce284cb844d8934824fee.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-1dbb0850809ce284cb844d8934824fee.unwrap
+      projectPath: Temp\output-1dbb0850809ce284cb844d8934824fee.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-1e824a245b1ca4c4a8d724b67c6d755f.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-1e824a245b1ca4c4a8d724b67c6d755f.unwrap
+      projectPath: Temp\output-1e824a245b1ca4c4a8d724b67c6d755f.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-2031ba43427ad6541b32cde28d5e1357.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-2031ba43427ad6541b32cde28d5e1357.unwrap
+      projectPath: Temp\output-2031ba43427ad6541b32cde28d5e1357.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-20fd1727f0f4479428df9d3c662f3422.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-20fd1727f0f4479428df9d3c662f3422.unwrap
+      projectPath: Temp\output-20fd1727f0f4479428df9d3c662f3422.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-21e394c6fa443014781785117a8dc4b1.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-21e394c6fa443014781785117a8dc4b1.unwrap
+      projectPath: Temp\output-21e394c6fa443014781785117a8dc4b1.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-2250abd17a9bc144385b55bf59b8735e.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-2250abd17a9bc144385b55bf59b8735e.unwrap
+      projectPath: Temp\output-2250abd17a9bc144385b55bf59b8735e.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-23197af017732d84db447db75d3d2ca1.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-23197af017732d84db447db75d3d2ca1.unwrap
+      projectPath: Temp\output-23197af017732d84db447db75d3d2ca1.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-2475a0c89efdfd64c88436d033d82f90.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-2475a0c89efdfd64c88436d033d82f90.unwrap
+      projectPath: Temp\output-2475a0c89efdfd64c88436d033d82f90.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-26a814f8703956a4ea5aa4013df2d75e.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-26a814f8703956a4ea5aa4013df2d75e.unwrap
+      projectPath: Temp\output-26a814f8703956a4ea5aa4013df2d75e.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-2765a14fe7202ed4ba496ef3f05a8318.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-2765a14fe7202ed4ba496ef3f05a8318.unwrap
+      projectPath: Temp\output-2765a14fe7202ed4ba496ef3f05a8318.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-298364fa3fbef5344bd68a71d53a86f3.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-298364fa3fbef5344bd68a71d53a86f3.unwrap
+      projectPath: Temp\output-298364fa3fbef5344bd68a71d53a86f3.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-2d0e81702e6bf0c47968280bac1cf483.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-2d0e81702e6bf0c47968280bac1cf483.unwrap
+      projectPath: Temp\output-2d0e81702e6bf0c47968280bac1cf483.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-2d4173ffc6cc57d4db036fa0e2097d50.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-2d4173ffc6cc57d4db036fa0e2097d50.unwrap
+      projectPath: Temp\output-2d4173ffc6cc57d4db036fa0e2097d50.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-2ef522950a4dc99478ef99f2586418ea.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-2ef522950a4dc99478ef99f2586418ea.unwrap
+      projectPath: Temp\output-2ef522950a4dc99478ef99f2586418ea.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-3068762d68cc7954fae051ab68ebfa82.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-3068762d68cc7954fae051ab68ebfa82.unwrap
+      projectPath: Temp\output-3068762d68cc7954fae051ab68ebfa82.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-324231ecb049e5f46906fc3dccabb1b1.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-324231ecb049e5f46906fc3dccabb1b1.unwrap
+      projectPath: Temp\output-324231ecb049e5f46906fc3dccabb1b1.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-35ec54152072bef498840fda33938618.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-35ec54152072bef498840fda33938618.unwrap
+      projectPath: Temp\output-35ec54152072bef498840fda33938618.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-364a34fe817500c448586fffe8e02494.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-364a34fe817500c448586fffe8e02494.unwrap
+      projectPath: Temp\output-364a34fe817500c448586fffe8e02494.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-3773cc21516900340971ef10e291afb6.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-3773cc21516900340971ef10e291afb6.unwrap
+      projectPath: Temp\output-3773cc21516900340971ef10e291afb6.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-386ae01790411e847a14539029c32db3.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-386ae01790411e847a14539029c32db3.unwrap
+      projectPath: Temp\output-386ae01790411e847a14539029c32db3.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-388215701bb4841489b01834a57d5c97.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-388215701bb4841489b01834a57d5c97.unwrap
+      projectPath: Temp\output-388215701bb4841489b01834a57d5c97.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-3a6ec5074545e4a449ccc4f0572a7cf7.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-3a6ec5074545e4a449ccc4f0572a7cf7.unwrap
+      projectPath: Temp\output-3a6ec5074545e4a449ccc4f0572a7cf7.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-3c25bd07e94597243a02d42261565f54.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-3c25bd07e94597243a02d42261565f54.unwrap
+      projectPath: Temp\output-3c25bd07e94597243a02d42261565f54.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-3e24c02a4dde8aa46a71d0ccddaefc65.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-3e24c02a4dde8aa46a71d0ccddaefc65.unwrap
+      projectPath: Temp\output-3e24c02a4dde8aa46a71d0ccddaefc65.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-3e84e4dfef9e48841b189ce3112dd854.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-3e84e4dfef9e48841b189ce3112dd854.unwrap
+      projectPath: Temp\output-3e84e4dfef9e48841b189ce3112dd854.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-3eb6ec08032a5d84288688b84b85d714.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-3eb6ec08032a5d84288688b84b85d714.unwrap
+      projectPath: Temp\output-3eb6ec08032a5d84288688b84b85d714.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-431dde0ff8e376e4b9a6b60b4369cb54.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-431dde0ff8e376e4b9a6b60b4369cb54.unwrap
+      projectPath: Temp\output-431dde0ff8e376e4b9a6b60b4369cb54.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-442ab3b1e968cb040abd2327dea2240c.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-442ab3b1e968cb040abd2327dea2240c.unwrap
+      projectPath: Temp\output-442ab3b1e968cb040abd2327dea2240c.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-45708654687abbb45a0eef1d0aba8f0a.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-45708654687abbb45a0eef1d0aba8f0a.unwrap
+      projectPath: Temp\output-45708654687abbb45a0eef1d0aba8f0a.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-46b5a83b7f642874895330f555007409.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-46b5a83b7f642874895330f555007409.unwrap
+      projectPath: Temp\output-46b5a83b7f642874895330f555007409.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-474e785ecfc38844d9dbd4282adcf27b.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-474e785ecfc38844d9dbd4282adcf27b.unwrap
+      projectPath: Temp\output-474e785ecfc38844d9dbd4282adcf27b.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-47514469a9082c5439b1db08fd6e819b.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-47514469a9082c5439b1db08fd6e819b.unwrap
+      projectPath: Temp\output-47514469a9082c5439b1db08fd6e819b.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-47d50f96bb6f9d3409208b924cdc075a.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-47d50f96bb6f9d3409208b924cdc075a.unwrap
+      projectPath: Temp\output-47d50f96bb6f9d3409208b924cdc075a.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-48b945a4cac1d6843b7197c2f521337f.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-48b945a4cac1d6843b7197c2f521337f.unwrap
+      projectPath: Temp\output-48b945a4cac1d6843b7197c2f521337f.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-4c4dd6080c63c61459a794593d6fe8ef.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-4c4dd6080c63c61459a794593d6fe8ef.unwrap
+      projectPath: Temp\output-4c4dd6080c63c61459a794593d6fe8ef.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-4cb09543a02bb2242ac2173a7bbd9352.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-4cb09543a02bb2242ac2173a7bbd9352.unwrap
+      projectPath: Temp\output-4cb09543a02bb2242ac2173a7bbd9352.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-4f25e869376195943ac0404b2fb80fac.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-4f25e869376195943ac0404b2fb80fac.unwrap
+      projectPath: Temp\output-4f25e869376195943ac0404b2fb80fac.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-50ec8d49b1611d5448fcae60e8eaadf0.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-50ec8d49b1611d5448fcae60e8eaadf0.unwrap
+      projectPath: Temp\output-50ec8d49b1611d5448fcae60e8eaadf0.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-52d614ef2a85e4a4fbbf05b4b274bed4.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-52d614ef2a85e4a4fbbf05b4b274bed4.unwrap
+      projectPath: Temp\output-52d614ef2a85e4a4fbbf05b4b274bed4.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-53230bad710407c4e9b1e0dd92670456.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-53230bad710407c4e9b1e0dd92670456.unwrap
+      projectPath: Temp\output-53230bad710407c4e9b1e0dd92670456.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-5525a1cb623957749b265d3816883284.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-5525a1cb623957749b265d3816883284.unwrap
+      projectPath: Temp\output-5525a1cb623957749b265d3816883284.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-55c7d92dfa629b34a8f49a7911fff63c.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-55c7d92dfa629b34a8f49a7911fff63c.unwrap
+      projectPath: Temp\output-55c7d92dfa629b34a8f49a7911fff63c.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-571b23fe2c58040468786e61d5c4acbd.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-571b23fe2c58040468786e61d5c4acbd.unwrap
+      projectPath: Temp\output-571b23fe2c58040468786e61d5c4acbd.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-572ba5e0bbbc325479c8d977314751c9.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-572ba5e0bbbc325479c8d977314751c9.unwrap
+      projectPath: Temp\output-572ba5e0bbbc325479c8d977314751c9.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-574375c19a80df5488d85100c499f347.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-574375c19a80df5488d85100c499f347.unwrap
+      projectPath: Temp\output-574375c19a80df5488d85100c499f347.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-579a0ec2a2d5ed041a7e06f0bbaa54e3.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-579a0ec2a2d5ed041a7e06f0bbaa54e3.unwrap
+      projectPath: Temp\output-579a0ec2a2d5ed041a7e06f0bbaa54e3.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-58dc5f16191932040a6f051a08d98b84.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-58dc5f16191932040a6f051a08d98b84.unwrap
+      projectPath: Temp\output-58dc5f16191932040a6f051a08d98b84.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-58f1e0e61ccef1040a4e50675c3c5224.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-58f1e0e61ccef1040a4e50675c3c5224.unwrap
+      projectPath: Temp\output-58f1e0e61ccef1040a4e50675c3c5224.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-5aa62eb8b14627c4d91fc56b8b2bc0d3.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-5aa62eb8b14627c4d91fc56b8b2bc0d3.unwrap
+      projectPath: Temp\output-5aa62eb8b14627c4d91fc56b8b2bc0d3.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-5b0a7b14613a3294aa01873e13ad020a.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-5b0a7b14613a3294aa01873e13ad020a.unwrap
+      projectPath: Temp\output-5b0a7b14613a3294aa01873e13ad020a.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-5bf4cc593019a5047903edc336120e2f.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-5bf4cc593019a5047903edc336120e2f.unwrap
+      projectPath: Temp\output-5bf4cc593019a5047903edc336120e2f.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-5c0ec1fc544ef9943bfb911d2e7516c1.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-5c0ec1fc544ef9943bfb911d2e7516c1.unwrap
+      projectPath: Temp\output-5c0ec1fc544ef9943bfb911d2e7516c1.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-60ed21bb7e56ae9498886271b5c12a91.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-60ed21bb7e56ae9498886271b5c12a91.unwrap
+      projectPath: Temp\output-60ed21bb7e56ae9498886271b5c12a91.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-611e6ac2fe1789043a958b01afb1f90a.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-611e6ac2fe1789043a958b01afb1f90a.unwrap
+      projectPath: Temp\output-611e6ac2fe1789043a958b01afb1f90a.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-61cfa67e02021ad4f9b12bbee73760d8.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-61cfa67e02021ad4f9b12bbee73760d8.unwrap
+      projectPath: Temp\output-61cfa67e02021ad4f9b12bbee73760d8.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-61faa969bd61fc343b5f2ecb0fdfd2fe.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-61faa969bd61fc343b5f2ecb0fdfd2fe.unwrap
+      projectPath: Temp\output-61faa969bd61fc343b5f2ecb0fdfd2fe.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-638b869ac311d624da8f650881d0aac5.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-638b869ac311d624da8f650881d0aac5.unwrap
+      projectPath: Temp\output-638b869ac311d624da8f650881d0aac5.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-641fe57a57e0a4240864b1d53a8b7070.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-641fe57a57e0a4240864b1d53a8b7070.unwrap
+      projectPath: Temp\output-641fe57a57e0a4240864b1d53a8b7070.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-64ab649e5d78b24408a6fc377456508c.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-64ab649e5d78b24408a6fc377456508c.unwrap
+      projectPath: Temp\output-64ab649e5d78b24408a6fc377456508c.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-6615c22022ef4df4f8ed381c30937725.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-6615c22022ef4df4f8ed381c30937725.unwrap
+      projectPath: Temp\output-6615c22022ef4df4f8ed381c30937725.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-673b033c5e053ac469a68bd05ed4752b.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-673b033c5e053ac469a68bd05ed4752b.unwrap
+      projectPath: Temp\output-673b033c5e053ac469a68bd05ed4752b.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-67cf53ff47c340f43b059687d6abd956.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-67cf53ff47c340f43b059687d6abd956.unwrap
+      projectPath: Temp\output-67cf53ff47c340f43b059687d6abd956.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-69d79a2c8f0f84640bdd4b4fb7522526.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-69d79a2c8f0f84640bdd4b4fb7522526.unwrap
+      projectPath: Temp\output-69d79a2c8f0f84640bdd4b4fb7522526.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-6a93f6646fc23c44d800072b098f6c37.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-6a93f6646fc23c44d800072b098f6c37.unwrap
+      projectPath: Temp\output-6a93f6646fc23c44d800072b098f6c37.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-6bbbbc1d2128a804bb2dd0a1c0de0125.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-6bbbbc1d2128a804bb2dd0a1c0de0125.unwrap
+      projectPath: Temp\output-6bbbbc1d2128a804bb2dd0a1c0de0125.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-6d34f7eb57ec42841b1f4fc8e3a784c4.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-6d34f7eb57ec42841b1f4fc8e3a784c4.unwrap
+      projectPath: Temp\output-6d34f7eb57ec42841b1f4fc8e3a784c4.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-6f5f6e769591d514c9578289ff08309e.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-6f5f6e769591d514c9578289ff08309e.unwrap
+      projectPath: Temp\output-6f5f6e769591d514c9578289ff08309e.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-72e302320067e3c458ca170634829791.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-72e302320067e3c458ca170634829791.unwrap
+      projectPath: Temp\output-72e302320067e3c458ca170634829791.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-7361e88632bbac048a8311c9930b54b9.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-7361e88632bbac048a8311c9930b54b9.unwrap
+      projectPath: Temp\output-7361e88632bbac048a8311c9930b54b9.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-73b82952271a17c4ab0b2d05a0c1ddf9.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-73b82952271a17c4ab0b2d05a0c1ddf9.unwrap
+      projectPath: Temp\output-73b82952271a17c4ab0b2d05a0c1ddf9.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-74df4cfb3912f754f9ead16463039ac3.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-74df4cfb3912f754f9ead16463039ac3.unwrap
+      projectPath: Temp\output-74df4cfb3912f754f9ead16463039ac3.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-74e29b8a6bdee354a99ce01f6fee44a8.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-74e29b8a6bdee354a99ce01f6fee44a8.unwrap
+      projectPath: Temp\output-74e29b8a6bdee354a99ce01f6fee44a8.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-7637859767f637b43bf5d18f13ae7be7.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-7637859767f637b43bf5d18f13ae7be7.unwrap
+      projectPath: Temp\output-7637859767f637b43bf5d18f13ae7be7.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-77c0545ebaf63bb45976fcfea322ccbe.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-77c0545ebaf63bb45976fcfea322ccbe.unwrap
+      projectPath: Temp\output-77c0545ebaf63bb45976fcfea322ccbe.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-79229718d7cd0db438ab1c79f199b490.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-79229718d7cd0db438ab1c79f199b490.unwrap
+      projectPath: Temp\output-79229718d7cd0db438ab1c79f199b490.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-7beecc8672b25304fb2ec77ff324fc86.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-7beecc8672b25304fb2ec77ff324fc86.unwrap
+      projectPath: Temp\output-7beecc8672b25304fb2ec77ff324fc86.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-7f0a6bfd778fb8e4397d3fd5f3b48610.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-7f0a6bfd778fb8e4397d3fd5f3b48610.unwrap
+      projectPath: Temp\output-7f0a6bfd778fb8e4397d3fd5f3b48610.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-81b4479ce092ff244bd4f94efc83b4f3.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-81b4479ce092ff244bd4f94efc83b4f3.unwrap
+      projectPath: Temp\output-81b4479ce092ff244bd4f94efc83b4f3.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-83a972512c2c928419424dbb846bfd9f.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-83a972512c2c928419424dbb846bfd9f.unwrap
+      projectPath: Temp\output-83a972512c2c928419424dbb846bfd9f.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-84c3be81ef8518b448a38880e67d19ba.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-84c3be81ef8518b448a38880e67d19ba.unwrap
+      projectPath: Temp\output-84c3be81ef8518b448a38880e67d19ba.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-857c023f5f979c141bb94dad376ad367.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-857c023f5f979c141bb94dad376ad367.unwrap
+      projectPath: Temp\output-857c023f5f979c141bb94dad376ad367.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-8646d0f5ac456d54b8d679229680bb3a.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-8646d0f5ac456d54b8d679229680bb3a.unwrap
+      projectPath: Temp\output-8646d0f5ac456d54b8d679229680bb3a.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-8748706e0021aee408696b25e7ee6611.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-8748706e0021aee408696b25e7ee6611.unwrap
+      projectPath: Temp\output-8748706e0021aee408696b25e7ee6611.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-874dbc02d13f4724ab315f47eeaa6616.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-874dbc02d13f4724ab315f47eeaa6616.unwrap
+      projectPath: Temp\output-874dbc02d13f4724ab315f47eeaa6616.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-8933dd42dc400b0458cc98ec7293b691.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-8933dd42dc400b0458cc98ec7293b691.unwrap
+      projectPath: Temp\output-8933dd42dc400b0458cc98ec7293b691.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-8a6fe13153fcfe642b64eaf7292a1919.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-8a6fe13153fcfe642b64eaf7292a1919.unwrap
+      projectPath: Temp\output-8a6fe13153fcfe642b64eaf7292a1919.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-8c49bbdf186585344858efa38f7be7f4.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-8c49bbdf186585344858efa38f7be7f4.unwrap
+      projectPath: Temp\output-8c49bbdf186585344858efa38f7be7f4.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-8d236783778f9514b8508c88a287fd36.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-8d236783778f9514b8508c88a287fd36.unwrap
+      projectPath: Temp\output-8d236783778f9514b8508c88a287fd36.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-8f887bc6a33bcda4da202a494bebd321.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-8f887bc6a33bcda4da202a494bebd321.unwrap
+      projectPath: Temp\output-8f887bc6a33bcda4da202a494bebd321.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-9309b855ffebe6d48b98fb26a2be1be7.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-9309b855ffebe6d48b98fb26a2be1be7.unwrap
+      projectPath: Temp\output-9309b855ffebe6d48b98fb26a2be1be7.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-94732c3ce454448449c48097a534fa7e.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-94732c3ce454448449c48097a534fa7e.unwrap
+      projectPath: Temp\output-94732c3ce454448449c48097a534fa7e.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-9526304e40ec1c44db5a24476edb5360.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-9526304e40ec1c44db5a24476edb5360.unwrap
+      projectPath: Temp\output-9526304e40ec1c44db5a24476edb5360.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-95ae550dd0258ef409056e248f2fc0e7.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-95ae550dd0258ef409056e248f2fc0e7.unwrap
+      projectPath: Temp\output-95ae550dd0258ef409056e248f2fc0e7.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-95c730f4d61abae41a753b72fbd02d6d.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-95c730f4d61abae41a753b72fbd02d6d.unwrap
+      projectPath: Temp\output-95c730f4d61abae41a753b72fbd02d6d.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-988296ecc11b57346a7fabdad9d7e283.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-988296ecc11b57346a7fabdad9d7e283.unwrap
+      projectPath: Temp\output-988296ecc11b57346a7fabdad9d7e283.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-98b63382eb2eb8941bc5238530d432d5.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-98b63382eb2eb8941bc5238530d432d5.unwrap
+      projectPath: Temp\output-98b63382eb2eb8941bc5238530d432d5.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-9a5001c76d379394abd7fcdceba91fa0.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-9a5001c76d379394abd7fcdceba91fa0.unwrap
+      projectPath: Temp\output-9a5001c76d379394abd7fcdceba91fa0.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-9b220a50383a88449af25f9f4ed4a7d2.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-9b220a50383a88449af25f9f4ed4a7d2.unwrap
+      projectPath: Temp\output-9b220a50383a88449af25f9f4ed4a7d2.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-9c996c1cea7fb75409aecf98fb233db0.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-9c996c1cea7fb75409aecf98fb233db0.unwrap
+      projectPath: Temp\output-9c996c1cea7fb75409aecf98fb233db0.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-a20eb97adc2b2694ba0458cdd020a82a.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-a20eb97adc2b2694ba0458cdd020a82a.unwrap
+      projectPath: Temp\output-a20eb97adc2b2694ba0458cdd020a82a.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-a36edd35cc9abdf4492a3b6a91084f50.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-a36edd35cc9abdf4492a3b6a91084f50.unwrap
+      projectPath: Temp\output-a36edd35cc9abdf4492a3b6a91084f50.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-a3d24f963ac968449978538d68efb810.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-a3d24f963ac968449978538d68efb810.unwrap
+      projectPath: Temp\output-a3d24f963ac968449978538d68efb810.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-a50fef3510fe1674a943c989590c93d6.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-a50fef3510fe1674a943c989590c93d6.unwrap
+      projectPath: Temp\output-a50fef3510fe1674a943c989590c93d6.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-a562501073eaf2b4ab92217c6e501904.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-a562501073eaf2b4ab92217c6e501904.unwrap
+      projectPath: Temp\output-a562501073eaf2b4ab92217c6e501904.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-a6c46864a289ae94c818e149251f31d4.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-a6c46864a289ae94c818e149251f31d4.unwrap
+      projectPath: Temp\output-a6c46864a289ae94c818e149251f31d4.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-a7eb413094107a843a201c9269006c5f.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-a7eb413094107a843a201c9269006c5f.unwrap
+      projectPath: Temp\output-a7eb413094107a843a201c9269006c5f.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-ab466fdd99b82e54dbb51c9aefbd6148.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-ab466fdd99b82e54dbb51c9aefbd6148.unwrap
+      projectPath: Temp\output-ab466fdd99b82e54dbb51c9aefbd6148.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-acda8ecf201a7a64093d19a551f00878.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-acda8ecf201a7a64093d19a551f00878.unwrap
+      projectPath: Temp\output-acda8ecf201a7a64093d19a551f00878.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-ad1ab662919115849babfbeafc9ca6af.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-ad1ab662919115849babfbeafc9ca6af.unwrap
+      projectPath: Temp\output-ad1ab662919115849babfbeafc9ca6af.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-af1ba53e8c2ee44448c1f4e0c852b963.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-af1ba53e8c2ee44448c1f4e0c852b963.unwrap
+      projectPath: Temp\output-af1ba53e8c2ee44448c1f4e0c852b963.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-afb300af6b2bda641b6253f6d5d1b1e9.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-afb300af6b2bda641b6253f6d5d1b1e9.unwrap
+      projectPath: Temp\output-afb300af6b2bda641b6253f6d5d1b1e9.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-b01e0e3118eaf5940be9ec9e5a09e695.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-b01e0e3118eaf5940be9ec9e5a09e695.unwrap
+      projectPath: Temp\output-b01e0e3118eaf5940be9ec9e5a09e695.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-b191600bd033aaf4681dd4e7f425225d.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-b191600bd033aaf4681dd4e7f425225d.unwrap
+      projectPath: Temp\output-b191600bd033aaf4681dd4e7f425225d.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-b2cead0a1a216da459c803a27663055e.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-b2cead0a1a216da459c803a27663055e.unwrap
+      projectPath: Temp\output-b2cead0a1a216da459c803a27663055e.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-b2e60483c4058cd499ce84a11b4d96cd.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-b2e60483c4058cd499ce84a11b4d96cd.unwrap
+      projectPath: Temp\output-b2e60483c4058cd499ce84a11b4d96cd.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-b5a30bdceaf453845a7736941391578a.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-b5a30bdceaf453845a7736941391578a.unwrap
+      projectPath: Temp\output-b5a30bdceaf453845a7736941391578a.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-b77797233170444488ebfd2a2c1feaba.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-b77797233170444488ebfd2a2c1feaba.unwrap
+      projectPath: Temp\output-b77797233170444488ebfd2a2c1feaba.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-b83c0a655848fb8469fa45f7211f1f25.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-b83c0a655848fb8469fa45f7211f1f25.unwrap
+      projectPath: Temp\output-b83c0a655848fb8469fa45f7211f1f25.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-b85ad90d62ae13a43834f3be9c5342ed.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-b85ad90d62ae13a43834f3be9c5342ed.unwrap
+      projectPath: Temp\output-b85ad90d62ae13a43834f3be9c5342ed.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-b89c9f42430057a4d9362e7b802d2cd7.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-b89c9f42430057a4d9362e7b802d2cd7.unwrap
+      projectPath: Temp\output-b89c9f42430057a4d9362e7b802d2cd7.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-b939585832b627846a590a53761a709e.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-b939585832b627846a590a53761a709e.unwrap
+      projectPath: Temp\output-b939585832b627846a590a53761a709e.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-b9f48849fd53bed4ebb510273ab6afad.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-b9f48849fd53bed4ebb510273ab6afad.unwrap
+      projectPath: Temp\output-b9f48849fd53bed4ebb510273ab6afad.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-bb010fe8936b02c4da5945a866857c26.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-bb010fe8936b02c4da5945a866857c26.unwrap
+      projectPath: Temp\output-bb010fe8936b02c4da5945a866857c26.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-bf7f8d9f9eb1a4549b7fa488e58a2d39.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-bf7f8d9f9eb1a4549b7fa488e58a2d39.unwrap
+      projectPath: Temp\output-bf7f8d9f9eb1a4549b7fa488e58a2d39.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-c1259dd7a9764c74bbb2607525472f14.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-c1259dd7a9764c74bbb2607525472f14.unwrap
+      projectPath: Temp\output-c1259dd7a9764c74bbb2607525472f14.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-c168a6646da56964b9cf3579523c44d3.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-c168a6646da56964b9cf3579523c44d3.unwrap
+      projectPath: Temp\output-c168a6646da56964b9cf3579523c44d3.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-c25fc3b170e895a42be4afc705e41b8c.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-c25fc3b170e895a42be4afc705e41b8c.unwrap
+      projectPath: Temp\output-c25fc3b170e895a42be4afc705e41b8c.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-c2dd30ed23b96f14fb2a7bc98c0dbb5f.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-c2dd30ed23b96f14fb2a7bc98c0dbb5f.unwrap
+      projectPath: Temp\output-c2dd30ed23b96f14fb2a7bc98c0dbb5f.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-c3fa104c933c65346b48b0e54b87746f.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-c3fa104c933c65346b48b0e54b87746f.unwrap
+      projectPath: Temp\output-c3fa104c933c65346b48b0e54b87746f.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-c63a725f61966d746b258bccb61dbdef.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-c63a725f61966d746b258bccb61dbdef.unwrap
+      projectPath: Temp\output-c63a725f61966d746b258bccb61dbdef.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-c674f86c2e5dd56428d6fbc83cca45a7.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-c674f86c2e5dd56428d6fbc83cca45a7.unwrap
+      projectPath: Temp\output-c674f86c2e5dd56428d6fbc83cca45a7.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-c69ba22778a561e4ca58232eec6e290a.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-c69ba22778a561e4ca58232eec6e290a.unwrap
+      projectPath: Temp\output-c69ba22778a561e4ca58232eec6e290a.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-c759ba62fca39df48a834ee32a2baa05.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-c759ba62fca39df48a834ee32a2baa05.unwrap
+      projectPath: Temp\output-c759ba62fca39df48a834ee32a2baa05.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-cc28804a1d111a24da425022aa4c94c8.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-cc28804a1d111a24da425022aa4c94c8.unwrap
+      projectPath: Temp\output-cc28804a1d111a24da425022aa4c94c8.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-d187537a739d10a4084b82a88b29eb73.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-d187537a739d10a4084b82a88b29eb73.unwrap
+      projectPath: Temp\output-d187537a739d10a4084b82a88b29eb73.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-d247806196b88df48996f6db7f748235.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-d247806196b88df48996f6db7f748235.unwrap
+      projectPath: Temp\output-d247806196b88df48996f6db7f748235.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-d26847d791d16f24b9fe59f202816826.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-d26847d791d16f24b9fe59f202816826.unwrap
+      projectPath: Temp\output-d26847d791d16f24b9fe59f202816826.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-d2e6f906c66a6494693d775ae63d8991.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-d2e6f906c66a6494693d775ae63d8991.unwrap
+      projectPath: Temp\output-d2e6f906c66a6494693d775ae63d8991.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-d374db072a9c20d438795166f8bf8697.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-d374db072a9c20d438795166f8bf8697.unwrap
+      projectPath: Temp\output-d374db072a9c20d438795166f8bf8697.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-d58ca1a78191bab4b8808843e23f01d1.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-d58ca1a78191bab4b8808843e23f01d1.unwrap
+      projectPath: Temp\output-d58ca1a78191bab4b8808843e23f01d1.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-d5dbcbd23de16744c9824b016ae220e1.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-d5dbcbd23de16744c9824b016ae220e1.unwrap
+      projectPath: Temp\output-d5dbcbd23de16744c9824b016ae220e1.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-d6a8a1093f8972046baa90dc57baabf1.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-d6a8a1093f8972046baa90dc57baabf1.unwrap
+      projectPath: Temp\output-d6a8a1093f8972046baa90dc57baabf1.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-dae747ad659fb7140a54b44145b17fb4.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-dae747ad659fb7140a54b44145b17fb4.unwrap
+      projectPath: Temp\output-dae747ad659fb7140a54b44145b17fb4.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-db06712594400ac4197751fe3df69b44.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-db06712594400ac4197751fe3df69b44.unwrap
+      projectPath: Temp\output-db06712594400ac4197751fe3df69b44.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-ddab8b82b6ac55b42aa13d72f711ee55.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-ddab8b82b6ac55b42aa13d72f711ee55.unwrap
+      projectPath: Temp\output-ddab8b82b6ac55b42aa13d72f711ee55.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-e3f1cf9c517161a40b49f9674b6a0ea7.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-e3f1cf9c517161a40b49f9674b6a0ea7.unwrap
+      projectPath: Temp\output-e3f1cf9c517161a40b49f9674b6a0ea7.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-e50dc887e1a91e547ae6c8a85679ffbd.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-e50dc887e1a91e547ae6c8a85679ffbd.unwrap
+      projectPath: Temp\output-e50dc887e1a91e547ae6c8a85679ffbd.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-e5e5ec13e9e75be4685fcc75337ac47a.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-e5e5ec13e9e75be4685fcc75337ac47a.unwrap
+      projectPath: Temp\output-e5e5ec13e9e75be4685fcc75337ac47a.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-e6bb21d467604e441ac5b96de560af6b.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-e6bb21d467604e441ac5b96de560af6b.unwrap
+      projectPath: Temp\output-e6bb21d467604e441ac5b96de560af6b.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-e90a6ff3838447f46a7905c0d539a4d9.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-e90a6ff3838447f46a7905c0d539a4d9.unwrap
+      projectPath: Temp\output-e90a6ff3838447f46a7905c0d539a4d9.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-ea6fb78ed132a36439706a1417da1e2f.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-ea6fb78ed132a36439706a1417da1e2f.unwrap
+      projectPath: Temp\output-ea6fb78ed132a36439706a1417da1e2f.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-ecb9f9df6e887c341ab51cd934a16179.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-ecb9f9df6e887c341ab51cd934a16179.unwrap
+      projectPath: Temp\output-ecb9f9df6e887c341ab51cd934a16179.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-ee77a99741598ac48adc653b6e50828d.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-ee77a99741598ac48adc653b6e50828d.unwrap
+      projectPath: Temp\output-ee77a99741598ac48adc653b6e50828d.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-f191ca13fb9942c4892cc30565af70b0.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-f191ca13fb9942c4892cc30565af70b0.unwrap
+      projectPath: Temp\output-f191ca13fb9942c4892cc30565af70b0.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-f301058a55ed9cd4e9e331212026e1d5.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-f301058a55ed9cd4e9e331212026e1d5.unwrap
+      projectPath: Temp\output-f301058a55ed9cd4e9e331212026e1d5.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-f5650f8695e3fbe4dbf15e3124e2d062.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-f5650f8695e3fbe4dbf15e3124e2d062.unwrap
+      projectPath: Temp\output-f5650f8695e3fbe4dbf15e3124e2d062.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-f65489f5637cb3b47ae9bb1e7923bdd6.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-f65489f5637cb3b47ae9bb1e7923bdd6.unwrap
+      projectPath: Temp\output-f65489f5637cb3b47ae9bb1e7923bdd6.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-f808380dd1906be488375d0430557afe.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-f808380dd1906be488375d0430557afe.unwrap
+      projectPath: Temp\output-f808380dd1906be488375d0430557afe.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-f832fa43cb5aed245ab5777543561a0d.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-f832fa43cb5aed245ab5777543561a0d.unwrap
+      projectPath: Temp\output-f832fa43cb5aed245ab5777543561a0d.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-f88d7249a3b123b4d8ab98d34d52f2bc.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-f88d7249a3b123b4d8ab98d34d52f2bc.unwrap
+      projectPath: Temp\output-f88d7249a3b123b4d8ab98d34d52f2bc.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-f8ea82fafd7631d46bf8d52687f76d78.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-f8ea82fafd7631d46bf8d52687f76d78.unwrap
+      projectPath: Temp\output-f8ea82fafd7631d46bf8d52687f76d78.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-f909593c71c549947af20ee5b7a882a1.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-f909593c71c549947af20ee5b7a882a1.unwrap
+      projectPath: Temp\output-f909593c71c549947af20ee5b7a882a1.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-faa7e0926c7bae246a130edc591c1965.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-faa7e0926c7bae246a130edc591c1965.unwrap
+      projectPath: Temp\output-faa7e0926c7bae246a130edc591c1965.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-fbdb2548fad09254d858dab37ca6dcdd.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-fbdb2548fad09254d858dab37ca6dcdd.unwrap
+      projectPath: Temp\output-fbdb2548fad09254d858dab37ca6dcdd.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-fcbdd5df7a6672248b89c540373e3ee0.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-fcbdd5df7a6672248b89c540373e3ee0.unwrap
+      projectPath: Temp\output-fcbdd5df7a6672248b89c540373e3ee0.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-fce2c12d3f536ca42b8113e37d0c983a.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-fce2c12d3f536ca42b8113e37d0c983a.unwrap
+      projectPath: Temp\output-fce2c12d3f536ca42b8113e37d0c983a.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-fdd1a9c188039c84fa5749de808ec58d.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-fdd1a9c188039c84fa5749de808ec58d.unwrap
+      projectPath: Temp\output-fdd1a9c188039c84fa5749de808ec58d.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-fefdb78507c5fad4c810f42b7a1ccc03.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-fefdb78507c5fad4c810f42b7a1ccc03.unwrap
+      projectPath: Temp\output-fefdb78507c5fad4c810f42b7a1ccc03.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\Temp\output-ff8e22b5656f5df48a9965527c2dff77.unwrap
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\Temp\output-ff8e22b5656f5df48a9965527c2dff77.unwrap
+      projectPath: Temp\output-ff8e22b5656f5df48a9965527c2dff77.unwrap
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: tarffic System\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: tarffic System\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      fullPath: C:\Users\h.helal\Documents\GitHub\trafficSystem\tarffic System\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: 670af28b5b302da9cd1875abd89db319a6b9378d
     mergeA: 
     mergeB: 
