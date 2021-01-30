@@ -8,6 +8,7 @@ public class Intersection : MonoBehaviour
     public IntersectionType type;
     public IntersectionStatus status = IntersectionStatus.move;
     public List<Transform> pathsAffectingStopPoint = new List<Transform>();
+    public List<Transform> pathsAffectedByStopPoint = new List<Transform>();
     // Start is called before the first frame update
     void Start()
     {
@@ -21,63 +22,93 @@ public class Intersection : MonoBehaviour
     }
     void OnTriggerEnter(Collider otherObject)
     {
-        if (type == IntersectionType.intersectionPoint)
+        MovingCarBehavior car = otherObject.gameObject.GetComponent<MovingCarBehavior>();
+        if (otherObject.gameObject.tag == "vehicle")
         {
-            for (int i = 0; i < pathsAffectingStopPoint.Count; i++)
+            if (type == IntersectionType.intersectionPoint)
             {
-                if (otherObject.gameObject.GetComponent<MovingCarBehavior>().PathName==pathsAffectingStopPoint[i].name)
+
+                for (int i = 0; i < pathsAffectingStopPoint.Count; i++)
                 {
-                    status = IntersectionStatus.stop;
+
+                    if (car.roadPath.gameObject.name == pathsAffectingStopPoint[i].name)
+                    {
+                        status = IntersectionStatus.stop;
+                    }
                 }
+                for (int i = 0; i < pathsAffectedByStopPoint.Count; i++)
+                {
+                    if (status == IntersectionStatus.stop && car.roadPath.gameObject.name == pathsAffectedByStopPoint[i].name)
+                    {
+                        //car.speed = Mathf.Lerp(car.speed, 0, 15);
+                        car.StopCar(true,this.transform.position);
+                        //car.move = false;
+                        //StartCoroutine( "wait",otherObject.gameObject);
+                    }
+                }
+
+
+
+
             }
-          
-            Debug.Log("intpoint eee");
-            if (status == IntersectionStatus.stop)
+            else if (type == IntersectionType.light)
             {
-                otherObject.gameObject.GetComponent<MovingCarBehavior>().move = false;
-                //StartCoroutine( "wait",otherObject.gameObject);
+
             }
-            
-           
-
         }
-        else if (type == IntersectionType.light)
-        {
-
-        }
+      
     }
     void OnTriggerExit(Collider otherObject)
     {
-        if (type == IntersectionType.intersectionPoint)
+        if(otherObject.gameObject.tag=="vehicle")
         {
-            for (int i = 0; i < pathsAffectingStopPoint.Count; i++)
+            if (type == IntersectionType.intersectionPoint)
             {
-                if (otherObject.gameObject.GetComponent<MovingCarBehavior>().PathName == pathsAffectingStopPoint[i].name)
+                for (int i = 0; i < pathsAffectingStopPoint.Count; i++)
                 {
-                    status = IntersectionStatus.move;
+
+                    if (otherObject.gameObject.GetComponent<MovingCarBehavior>().roadPath.gameObject.name == pathsAffectingStopPoint[i].name)
+                    {
+                        status = IntersectionStatus.move;
+                    }
                 }
+
+                //if (status == IntersectionStatus.stop)
+                //{
+                //    status = IntersectionStatus.move;
+                //    StartCoroutine( "wait",otherObject.gameObject);
+                //}
+
+
             }
-           
-            //if (status == IntersectionStatus.stop)
-            //{
-            //    status = IntersectionStatus.move;
-            //    StartCoroutine( "wait",otherObject.gameObject);
-            //}
+            else if (type == IntersectionType.light)
+            {
 
-
+            }
         }
-        else if (type == IntersectionType.light)
-        {
-           
-        }
+       
     }
     void OnTriggerStay(Collider other)
     {
-        if (status == IntersectionStatus.move)
+        MovingCarBehavior car = other.gameObject.GetComponent<MovingCarBehavior>();
+        if (other.gameObject.tag == "vehicle")
         {
-            other.gameObject.GetComponent<MovingCarBehavior>().move = true;
-            //StartCoroutine( "wait",otherObject.gameObject);
+            if (status == IntersectionStatus.move)
+            {
+                for (int i = 0; i < pathsAffectedByStopPoint.Count; i++)
+                {
+                    if (car.roadPath.gameObject.name == pathsAffectedByStopPoint[i].name)
+                    {
+                        car.move = true;
+                        //car.speed = Mathf.Lerp(car.speed, car.originalSpeed, 15);
+                        car.StopCar(false,Vector3.zero);
+                        //StartCoroutine( "wait",otherObject.gameObject);
+                    }
+                }
+                
+            }
         }
+        
     }
     IEnumerator wait(GameObject vehicle)
     {

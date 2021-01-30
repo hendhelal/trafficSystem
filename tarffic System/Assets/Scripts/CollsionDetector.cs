@@ -1,5 +1,7 @@
-﻿using System.Collections;
+﻿using Assets.Scripts;
+using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 
 public class CollsionDetector : MonoBehaviour
@@ -7,10 +9,10 @@ public class CollsionDetector : MonoBehaviour
     public float MovingForce;
     Vector3 StartPoint,startptz;
     Vector3 Origin;
-    public int NoOfRays = 10;
+    public int NoOfRays = 2;
     int i;
     RaycastHit HitInfo;
-    float LengthOfRay=5, DistanceBetweenRays, DirectionFactor;
+    float LengthOfRay=3, DistanceBetweenRays, DirectionFactor;
     float margin = 0.015f;
     Ray ray;
     bool isZ = false;
@@ -25,39 +27,24 @@ public class CollsionDetector : MonoBehaviour
     }
     void Update()
     {
-        StartPoint = new Vector3(transform.position.x , transform.position.y,transform.position.z);
-        var z = (gameObject.GetComponent<BoxCollider>().size.z/2)-gameObject.GetComponent<BoxCollider>().center.z;
-        // First ray origin point for this frame
-        //if (transform.rotation.eulerAngles.y + 5 >= 90 || Mathf.Approximately(transform.rotation.eulerAngles.y, 90))
-        //{
-        //    StartPoint = new Vector3(transform.position.x+2, transform.position.y, GetComponent<Collider>().bounds.min.z + margin);
-        //    DistanceBetweenRays = (GetComponent<Collider>().bounds.size.z - 2 * margin) / (NoOfRays - 1);
-        //    isZ = true;
-        //}
-        //else
-        //{
-        //    StartPoint = new Vector3(GetComponent<Collider>().bounds.min.x + margin, transform.position.y, transform.position.z+2);
-        //    isZ = false;
-        //    DistanceBetweenRays = (GetComponent<Collider>().bounds.size.x - 2 * margin) / (NoOfRays - 1); 
-        //}
-        if (!IsCollidingVertically())
-        {
-            // transform.Translate(Vector3.up * MovingForce * Time.deltaTime * DirectionFactor);
-            print("===========");
-        }
+        StartPoint = new Vector3(transform.position.x , transform.position.y +0.3f,transform.position.z);
+        isCarNear();
         
     }
-    
-        bool IsCollidingVertically()
+    GameObject lastHit;
+        bool isCarNear()
     {
+        MovingCarBehavior car = gameObject.GetComponent<MovingCarBehavior>();
         Origin = StartPoint;
         float initRay = (NoOfRays / 2f) * raySpacing;
         for (float a = -initRay; a <= initRay; a += raySpacing)
         {
+           
             Debug.DrawRay(Origin, Quaternion.Euler(0, a, 0) * this.transform.forward * LengthOfRay, Color.green);
 
             if (Physics.Raycast(Origin, Quaternion.Euler(0, a, 0) * this.transform.forward, out HitInfo, LengthOfRay))
             {
+               
                 print("Collided With " + HitInfo.collider.gameObject.name);
                 // Negate the Directionfactor to reverse the moving direction of colliding cube(here cube2)
                 //if(Mathf.Approximately( transform.rotation.y,90))
@@ -67,15 +54,60 @@ public class CollsionDetector : MonoBehaviour
                 //}
                 if (HitInfo.collider.gameObject.tag == "vehicle")
                 {
-                    gameObject.GetComponent<MovingCarBehavior>().speed = 10;
+                    if(!HitInfo.collider.gameObject.GetComponent<MovingCarBehavior>().move)
+                    {
+                        
+                        car.StopCar(true, HitInfo.collider.gameObject.transform.position,true);
+                       
+                        car.move= false;
+                        car.nearCar = HitInfo.collider.gameObject;
+                    }
+                    
+                    else if (car.speed==car.originalSpeed)
+                    {
+                        lastHit = HitInfo.collider.gameObject;
+                        print("news: " + (HitInfo.collider.gameObject.GetComponent<MovingCarBehavior>().speed - 5));
+                        car.ControlSpeed(HitInfo.collider.gameObject.GetComponent<MovingCarBehavior>().speed - 5);
+                    }
+                    
+                   
+                }
+                else if(HitInfo.collider.gameObject.tag == "StopPoint")
+                {
+                    if(HitInfo.collider.transform.name==car.stopPointName)
+                    {
+                        if (HitInfo.collider.gameObject.GetComponent<Intersection>().status == IntersectionStatus.move)
+                        {
+                            car.ControlSpeed(car.originalSpeed);
+                            car.move = true;
+                            car.stopPointName = null;
+                        }
+                    }
+                 
                 }
                 return true;
             }
-            //else
-            //{
-            //    gameObject.GetComponent<MovingCarBehavior>().speed = 20;
+            else
+            {
+                if (lastHit != null)
+                {
+                    //if (lastHit.GetComponent<MovingCarBehavior>().move)
+                    //{
+                    //    car.ControlSpeed(car.originalSpeed);
+                    //    car.move = true;
+                    //}
+                    var dist = Vector3.Distance(lastHit.transform.position, car.transform.position);
+                    print("dist:" + dist);
+                    if(dist>15)
+                    {
+                        car.ControlSpeed(car.originalSpeed);
+                        lastHit = null;
+                    }
+                   
+                }
 
-            //}
+
+            }
 
         }
         //for (i = 0; i < NoOfRays; i++)
