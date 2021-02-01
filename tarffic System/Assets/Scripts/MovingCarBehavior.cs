@@ -8,21 +8,22 @@ public class MovingCarBehavior : MonoBehaviour
     public int currentwayPointIndex = 0;
     public float speed;
     public float maxSpeed;
-    public float maxTorque = 80f;
+   
     public float reachDistance = 0.5f;
     public float rotaionSpeed = 5.0f;
     public string PathName;
     public bool move = true;
     Vector3 lastPos, currentPos;
-
-    public float maxSteerAngle = 45f;
-    public WheelCollider FLWheel, FRWheel;
     public float originalSpeed;
     float timeElapsed;
     float lerpDuration = 5;
     Vector3 endPos;
     public string stopPointName;
     public GameObject nearCar;
+    public int x, z;
+    public float x1, z1;
+    float tempSpeed;
+    public bool slowDown = false;
     void Start()
     {
         originalSpeed = speed;
@@ -32,8 +33,8 @@ public class MovingCarBehavior : MonoBehaviour
 
     void FixedUpdate()
     {
-        //ChangeSteerAngle();
-        //Move();
+
+      
         if (nearCar)
         {
             if (nearCar.GetComponent<MovingCarBehavior>().move)
@@ -48,11 +49,14 @@ public class MovingCarBehavior : MonoBehaviour
         {
             if (lerp)
             {
-                transform.position = Vector3.Lerp(transform.position, endPos, Time.deltaTime);
+                transform.position = Vector3.Lerp(transform.position, endPos, Time.deltaTime/2);
             }
 
             else
             {
+             
+                
+
                 float distance = Vector3.Distance(roadPath.pathPoints[currentwayPointIndex].position, transform.position);
                 transform.position = Vector3.MoveTowards(transform.position, roadPath.pathPoints[currentwayPointIndex].position, Time.deltaTime * speed);
                 var rotation = Quaternion.LookRotation(roadPath.pathPoints[currentwayPointIndex].position - transform.position);
@@ -66,36 +70,67 @@ public class MovingCarBehavior : MonoBehaviour
 
 
     }
-    void ChangeSteerAngle()
+    void Update()
     {
-        Vector3 releativeVector = transform.InverseTransformPoint(roadPath.pathPoints[currentwayPointIndex].position);
-        float steerAngle = (releativeVector.x / releativeVector.magnitude) * maxSteerAngle;
-        FLWheel.steerAngle = steerAngle;
-        FRWheel.steerAngle = steerAngle;
-        float distance = Vector3.Distance(roadPath.pathPoints[currentwayPointIndex].position, transform.position);
-        print(distance);
-        if (distance < reachDistance)
-            currentwayPointIndex++;
-        if (currentwayPointIndex >= roadPath.pathPoints.Count)
-            currentwayPointIndex = 0;
-
-    }
-    void Move()
-    {
-        speed = 2 * Mathf.PI * FLWheel.radius * FLWheel.rpm * 60 / 1000;
-        if (speed < maxSpeed)
+        if (!slowDown)
         {
-            FLWheel.motorTorque = maxTorque;
-            FRWheel.motorTorque = maxTorque;
-        }
-        else
-        {
-            FLWheel.motorTorque = 0;
-            FRWheel.motorTorque = 0;
-        }
+            if (currentwayPointIndex > 0 && currentwayPointIndex < roadPath.pathPoints.Count - 1)
+            {
+                if (roadPath.pathPoints[currentwayPointIndex].position.x == roadPath.pathPoints[currentwayPointIndex - 1].position.x)
+                {
+                    if (roadPath.pathPoints[currentwayPointIndex].position.x != roadPath.pathPoints[currentwayPointIndex + 1].position.x)
+                    {
+                        if (tempSpeed == 0)
+                        {
+                            tempSpeed = speed;
+                            speed = 10;
+                        }
 
+                    }
+                    else
+                    {
+                        if (!slowDown)
+                        {
+                            if (tempSpeed > 0)
+                            {
+                                StartCoroutine("IncreaseSpeedGradually", tempSpeed);
+                               
+                                tempSpeed = 0;
+                            }
+                        }
 
+                    }
+                }
+                else if (roadPath.pathPoints[currentwayPointIndex].position.z == roadPath.pathPoints[currentwayPointIndex - 1].position.z)
+                {
+                    if (roadPath.pathPoints[currentwayPointIndex].position.z != roadPath.pathPoints[currentwayPointIndex + 1].position.z)
+                    {
+                        if (tempSpeed == 0)
+                        {
+                            tempSpeed = speed;
+                            speed = 10;
+                        }
+
+                    }
+                    else
+                    {
+                        if (!slowDown)
+                        {
+                            if (tempSpeed > 0)
+                            {
+                                if (speed < originalSpeed)
+                                    StartCoroutine("IncreaseSpeedGradually", tempSpeed);
+                                
+                                tempSpeed = 0;
+                            }
+                        }
+
+                    }
+                }
+            }
+        }
     }
+  
     IEnumerator Lerp(float endValue)
     {
         float timeElapsed = 0;
@@ -117,6 +152,22 @@ public class MovingCarBehavior : MonoBehaviour
         move = true;
         
     }
+    IEnumerator IncreaseSpeedGradually(float endValue)
+    {
+        float timeElapsed = 0;
+        float initialValue = speed;
+        float duration = 5;
+        while (timeElapsed < lerpDuration)
+        {
+            speed = Mathf.Lerp(initialValue, endValue, timeElapsed / duration);
+            timeElapsed += Time.deltaTime;
+
+            yield return null;
+        }
+
+        speed = endValue;
+       
+    }
     bool lerp = false;
     Vector3 futurePos = Vector3.zero;
     public void StopCar(bool doStop, Vector3 endPo, bool nearCar = false)
@@ -133,7 +184,7 @@ public class MovingCarBehavior : MonoBehaviour
 
             endPo = endPo + new Vector3(0, 0, dist) * -this.transform.forward.z;
         }
-        if (Mathf.CeilToInt(this.transform.position.z) == Mathf.CeilToInt(endPo.z))
+       if (Mathf.CeilToInt(this.transform.position.z) == Mathf.CeilToInt(endPo.z))
         {
 
             endPo = endPo + new Vector3(dist, 0, 0) * -this.transform.forward.x;
@@ -157,69 +208,15 @@ public class MovingCarBehavior : MonoBehaviour
     }
     public void ControlSpeed(float speed)
     {
+        StopAllCoroutines();
+        print("slowDown");
         this.speed = speed;
         //StartCoroutine("Lerp", speed);
     }
-    // Update is called once per frame
-    //void Update()
-    //{
-    //    if(move)
-    //    {
-    //        float distance = Vector3.Distance(roadPath.pathPoints[currentwayPointIndex].position, transform.position);
-    //        transform.position = Vector3.MoveTowards(transform.position, roadPath.pathPoints[currentwayPointIndex].position, Time.deltaTime * speed);
-    //        var rotation = Quaternion.LookRotation(roadPath.pathPoints[currentwayPointIndex].position - transform.position);
-    //        transform.rotation = Quaternion.Slerp(transform.rotation, rotation, Time.deltaTime * rotaionSpeed);
-    //        if (distance < reachDistance)
-    //            currentwayPointIndex++;
-    //        if (currentwayPointIndex >= roadPath.pathPoints.Count)
-    //            currentwayPointIndex = 0;
-    //    }
-
-    //}
-    //protected void LateUpdate()
-    //{
-    //    transform.localRotation = new Vector3(0, transform.localEulerAngles.z,0 );
-    //}
-    //void OnCollisionEnter(Collision other)
-    //{
-    //    //if(other.gameObject.tag=="StopPoint")
-    //    //{
-    //    //    move = false;
-    //    //   StartCoroutine( wait());
-    //    //}
-
-    //    //else 
-    //    if (other.gameObject.tag == "vehicle")
-    //    {
-    //        if (!other.gameObject.GetComponent<MovingCarBehavior>().move)
-    //            speed = Mathf.Lerp(speed, 0, 10);
-    //        else
-    //            speed = Mathf.Lerp(speed, other.gameObject.GetComponent<MovingCarBehavior>().speed - 5, 5);
-    //    }
-
-
-    //    Debug.Log("coliidee");
-
-
-    //}
-    //void OnCollisionExit(Collision other)
-    //{
-    //    if (other.gameObject.tag == "vehicle")
-    //    {
-    //        if (!move)
-    //            Mathf.Lerp(0, originalSpeed, 10);
-    //        else
-    //            speed = Mathf.Lerp(speed, originalSpeed, 5);
-    //    }
-
-
-    //    Debug.Log("no coliidee");
-
-
-    //}
+    
     IEnumerator wait()
     {
-        yield return new WaitForSecondsRealtime(5);
+        yield return new WaitForSecondsRealtime(2);
         speed = originalSpeed;
         lerp = false;
         move = true;

@@ -20,6 +20,7 @@ public class Intersection : MonoBehaviour
     {
         
     }
+   public int collisionCount=0;
     void OnTriggerEnter(Collider otherObject)
     {
         MovingCarBehavior car = otherObject.gameObject.GetComponent<MovingCarBehavior>();
@@ -34,6 +35,7 @@ public class Intersection : MonoBehaviour
                     if (car.roadPath.gameObject.name == pathsAffectingStopPoint[i].name)
                     {
                         status = IntersectionStatus.stop;
+                        collisionCount++;
                     }
                 }
                 for (int i = 0; i < pathsAffectedByStopPoint.Count; i++)
@@ -69,10 +71,14 @@ public class Intersection : MonoBehaviour
 
                     if (otherObject.gameObject.GetComponent<MovingCarBehavior>().roadPath.gameObject.name == pathsAffectingStopPoint[i].name)
                     {
-                        status = IntersectionStatus.move;
+                       
+                        collisionCount--;
                     }
                 }
-
+                if(collisionCount==0)
+                {
+                    status = IntersectionStatus.move;
+                }
                 //if (status == IntersectionStatus.stop)
                 //{
                 //    status = IntersectionStatus.move;
