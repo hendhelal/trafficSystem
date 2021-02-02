@@ -9,11 +9,9 @@ namespace Assets.Scripts
     public enum IntersectionStatus
     {
         stop,
-        move
-    }
-    public enum LightColor
-    {
+        move,
         red,
         green
     }
+    
 }

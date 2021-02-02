@@ -20,10 +20,7 @@ public class CollsionDetector : MonoBehaviour
     int raySpacing = 4;
     void Start()
     {
-        //Length of the Ray is distance from center to edge
-       // LengthOfRay = GetComponent<Collider>().bounds.extents.z;
-
-        //Initialize DirectionFactor for upward direction
+        //Initialize DirectionFactor for forward direction
         DirectionFactor = GetComponent<Collider>().bounds.extents.z;
     }
     void Update()
@@ -45,21 +42,10 @@ public class CollsionDetector : MonoBehaviour
 
             if (Physics.Raycast(Origin, Quaternion.Euler(0, a, 0) * this.transform.forward, out HitInfo, LengthOfRay))
             {
-               
-               // print(gameObject.name +" Collided With " + HitInfo.collider.gameObject.name);
-                // Negate the Directionfactor to reverse the moving direction of colliding cube(here cube2)
-                //if(Mathf.Approximately( transform.rotation.y,90))
-                //    {
-                //    DirectionFactor = -DirectionFactor;
-
-                //}
+              
                 if (HitInfo.collider.gameObject.tag == "vehicle")
                 {
-                   
-                    var v1 = (HitInfo.collider.gameObject.GetComponent<MovingCarBehavior>().roadPath.pathPoints[1].position - HitInfo.collider.gameObject.GetComponent<MovingCarBehavior>().roadPath.pathPoints[0].position);
-
-                    var v2 = (car.roadPath.pathPoints[1].position - car.roadPath.pathPoints[0].position);
-                    // to check if moving in same dir
+                    // to check if cars moving in same dir
                     var ceilx = car.transform.forward.x;
                     var ceilz = car.transform.forward.z;
                     var ceilx1 =  Mathf.Abs(HitInfo.collider.gameObject.transform.forward.x) >0.7 ?1 :0;
@@ -71,11 +57,7 @@ public class CollsionDetector : MonoBehaviour
                         {
                             close = Mathf.Abs(Mathf.Abs(ceilx) - ceilx1) < 0.1f;
                         }
-                        else
-                        {
-                            print("nooxxxx");
-                        }
-                       // print("DIF XX:" + Mathf.Abs(car.transform.forward.x - HitInfo.collider.gameObject.transform.forward.x));
+                   
                     }
                     else if (ceilz1 == 1 )
                     {
@@ -83,75 +65,57 @@ public class CollsionDetector : MonoBehaviour
                         {
                             close = Mathf.Abs(Mathf.Abs(ceilz) - ceilz1) < 0.1f;
                         }
-                        else
-                        {
-                            print("noozzz");
-                        }
-                        //  print("DIF XX:" + Mathf.Abs(car.transform.forward.x - HitInfo.collider.gameObject.transform.forward.x));
                     }
-                    else
-                    {
-                        print(ceilx1 + "    " + ceilz1);
-                        print("bigggggggggg");
-                    }
-                  
                     if (close)
                     {
-                        //print(Vector3.Dot(Vector3.forward, transform.InverseTransformPoint(HitInfo.collider.transform.position)));
                         print(gameObject.name + " Collided With " + HitInfo.collider.gameObject.name);
+                        //if a car is near and not moving==>stop
                         if (!HitInfo.collider.gameObject.GetComponent<MovingCarBehavior>().move)
                         {
-
                             car.StopCar(true, HitInfo.collider.gameObject.transform.position, true);
-
                             car.move = false;
                             car.nearCar = HitInfo.collider.gameObject;
                         }
-
+                        //if car is near ==>check speed
                         else  //(car.speed >= HitInfo.collider.gameObject.GetComponent<MovingCarBehavior>().speed)
                         {
                             if (HitInfo.collider.gameObject.GetComponent<MovingCarBehavior>().speed > 5)
                             {
                                 lastHit = HitInfo.collider.gameObject;
                                 print("ddddddddddddd" + gameObject.name + " Collided With " + HitInfo.collider.gameObject.name);
-
                                 print("news: " + (HitInfo.collider.gameObject.GetComponent<MovingCarBehavior>().speed - 5));
                                 car.ControlSpeed(HitInfo.collider.gameObject.GetComponent<MovingCarBehavior>().speed - 5);
                                 car.slowDown = true;
+                              //  car.nearCar = HitInfo.collider.gameObject;
                             }
                             else
                             {
                                 lastHit = HitInfo.collider.gameObject;
-                                car.ControlSpeed(5);
+                                car.ControlSpeed(HitInfo.collider.gameObject.GetComponent<MovingCarBehavior>().speed);
+                               // car.nearCar = HitInfo.collider.gameObject;
+                                car.slowDown = true;
+                              
                             }
-
                         }
                        
                         continue;
                     }
-                    else
-                    {
-                        print(ceilx +"     "+ceilz);
-                        print(Mathf.Abs(Mathf.Abs(ceilx) - ceilx1));
-                        print(Mathf.Abs(Mathf.Abs(ceilz) - ceilz1));
-
-                    }
 
 
                 }
-                else if(HitInfo.collider.gameObject.tag == "StopPoint")
-                {
-                    if(HitInfo.collider.transform.name==car.stopPointName)
-                    {
-                        if (HitInfo.collider.gameObject.GetComponent<Intersection>().status == IntersectionStatus.move)
-                        {
-                            car.ControlSpeed(car.originalSpeed);
-                            car.move = true;
-                            car.stopPointName = null;
-                        }
-                    }
+                //else if(HitInfo.collider.gameObject.tag == "StopPoint")
+                //{
+                //    if(HitInfo.collider.transform.name==car.stopPointName)
+                //    {
+                //        if (HitInfo.collider.gameObject.GetComponent<Intersection>().status == IntersectionStatus.move)
+                //        {
+                //            car.ControlSpeed(car.originalSpeed);
+                //            car.move = true;
+                //            car.stopPointName = null;
+                //        }
+                //    }
                  
-                }
+                //}
                 return true;
             }
             else
@@ -181,36 +145,5 @@ public class CollsionDetector : MonoBehaviour
        
         return false;
     }
-    //void OnCollisionEnter(Collision other)
-    //{
-    //  if( other.collider.gameObject.tag== "vehicle")
-    //    {
-          
-    //        MovingCarBehavior car = gameObject.GetComponent<MovingCarBehavior>();
-    //        MovingCarBehavior car2 = other.collider.gameObject.GetComponent<MovingCarBehavior>();
-
-    //        if(!car.slowDown && !car2.slowDown)
-    //        {
-    //            if (car.speed > car2.speed)
-    //            {
-    //                print(this.name); ;
-    //                if (car2.speed > 5)
-    //                {
-
-                      
-    //                    car.ControlSpeed(car2.speed - 5);
-    //                    car.slowDown = true;
-    //                }
-    //                else
-    //                {
-
-    //                    car.ControlSpeed(5);
-    //                }
-    //            }
-    //        }
-
-        
-    //    }
-       
-    //}
+    
 }

@@ -8,6 +8,7 @@ TagManager:
   - vehicle
   - rotationNear
   - rotationPoint
+  - person
   layers:
   - Default
   - TransparentFX
