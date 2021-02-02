@@ -4,11 +4,6 @@
 public class CharacterNavigationController : MonoBehaviour
 {
     public float movementSpeed = 1;
-    public float movementRotation = 1;
-
-    private Animator animator;
-
-    bool finish;
     Vector3 destination;
     public int index = 0;
     public CreatePath path;
@@ -16,7 +11,7 @@ public class CharacterNavigationController : MonoBehaviour
     Vector3 Origin;
     int NoOfRays = 2;
     RaycastHit HitInfo;
-    float LengthOfRay = 3, DistanceBetweenRays, DirectionFactor;
+    float LengthOfRay = 3;
     int raySpacing = 4;
     public bool stop;
     private void Start()
@@ -46,7 +41,7 @@ public class CharacterNavigationController : MonoBehaviour
             }
             Vector3 direction = destination - transform.position;
 
-            //animator.SetFloat("Speed", movementSpeed);
+            
             transform.position = Vector3.MoveTowards(transform.position, destination, Time.deltaTime * movementSpeed);
 
             if (direction != Vector3.zero)

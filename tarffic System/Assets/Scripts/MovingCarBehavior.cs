@@ -1,19 +1,22 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/// <summary>
+/// reponsible for car movment
+/// car has 2 main behaviors
+/// move==> car moving accordoing to speed
+/// lerp==> to smoothly stop car
+/// 
+/// slowdown==> to make sure that speed of car is set to slow speed
+/// </summary>
 public class MovingCarBehavior : MonoBehaviour
 {
     public CreatePath roadPath;
     public int currentwayPointIndex = 0;
     public float speed;
-    public float maxSpeed;
-
     public float reachDistance = 0.5f;
     public float rotaionSpeed = 5.0f;
-
     public bool move = true;
-
     public float originalSpeed;
     float lerpDuration = 5;
     Vector3 endPos;
@@ -22,6 +25,8 @@ public class MovingCarBehavior : MonoBehaviour
     float tempSpeed;
     public bool slowDown = false;
     float slowSpeed;
+       bool lerp = false;
+    Vector3 futurePos = Vector3.zero;
     void Start()
     {
         originalSpeed = speed;
@@ -100,7 +105,7 @@ public class MovingCarBehavior : MonoBehaviour
                         tempSpeed = speed;
                         speed = 10;
                     }
-                   
+
                 }
                 else
                 {
@@ -119,8 +124,7 @@ public class MovingCarBehavior : MonoBehaviour
     }
 
 
-    bool lerp = false;
-    Vector3 futurePos = Vector3.zero;
+ 
     public void StopCar(bool doStop, Vector3 endPo, bool nearCar = false)
     {
         float dist = 2f;
@@ -130,7 +134,7 @@ public class MovingCarBehavior : MonoBehaviour
             futurePos = endPo;
         }
 
-
+        //to stop at a distance ==>to prevent from being so close
         if (Mathf.CeilToInt(this.transform.position.x) == Mathf.CeilToInt(endPo.x))
         {
 
@@ -146,26 +150,21 @@ public class MovingCarBehavior : MonoBehaviour
             endPos = new Vector3(endPo.x, 0, endPo.z);
             lerp = true;
             move = false;
-            print("stopppppppppppppppp");
         }
         else
         {
-            //StartCoroutine("Lerp",originalSpeed);
             speed = originalSpeed;
             lerp = false;
             move = true;
-            //this.nearCar = null;
         }
 
-        //StartCoroutine("Lerp",speed);
     }
     public void ControlSpeed(float speed)
     {
         StopAllCoroutines();
-        print("slowDown");
         this.speed = speed;
         this.slowSpeed = speed;
-        //StartCoroutine("Lerp", speed);
+        
     }
     IEnumerator Lerp(float endValue)
     {

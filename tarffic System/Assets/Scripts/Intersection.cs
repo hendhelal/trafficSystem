@@ -3,7 +3,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
-
+/// <summary>
+/// responsible for dectecting persons and vehicles and organizing their movment
+/// </summary>
 public class Intersection : MonoBehaviour
 {
     public IntersectionType type;
@@ -40,7 +42,7 @@ public class Intersection : MonoBehaviour
             }
 
             if (done)
-            {
+            {//switch lights if no car is in collison zone, or if red light
                 if (collisionCount == 0 || status == IntersectionStatus.red)
                 {
                     done = false;
@@ -74,11 +76,7 @@ public class Intersection : MonoBehaviour
                     {
                         if (status == IntersectionStatus.stop && car.roadPath.gameObject.name == pathsAffectedByStopPoint[i].name)
                         {
-                        print("stopPoint");
-                            //car.speed = Mathf.Lerp(car.speed, 0, 15);
                             car.StopCar(true, this.transform.position);
-                            //car.move = false;
-                            //StartCoroutine( "wait",otherObject.gameObject);
                         }
                     }
             }
@@ -134,12 +132,6 @@ public class Intersection : MonoBehaviour
                 {
                     status = IntersectionStatus.move;
                 }
-                //if (status == IntersectionStatus.stop)
-                //{
-                //    status = IntersectionStatus.move;
-                //    StartCoroutine( "wait",otherObject.gameObject);
-                //}
-
 
             }
             else if (type == IntersectionType.light)
@@ -163,13 +155,12 @@ public class Intersection : MonoBehaviour
                         if (car.roadPath.gameObject.name == pathsAffectedByStopPoint[i].name)
                         {
                             car.move = true;
-                            //car.speed = Mathf.Lerp(car.speed, car.originalSpeed, 15);
                             car.StopCar(false, Vector3.zero);
-                            //StartCoroutine( "wait",otherObject.gameObject);
                         }
                     }
 
                 }
+              
             }
         }
 
@@ -180,11 +171,7 @@ public class Intersection : MonoBehaviour
                 MovingCarBehavior car1 = other.gameObject.GetComponent<MovingCarBehavior>();
                 if (status == IntersectionStatus.green)
                 {
-                    //car1.move = true;
-                    ////car.speed = Mathf.Lerp(car.speed, car.originalSpeed, 15);
-                    //car1.StopCar(false, Vector3.zero);
                     car1.move = true;
-                   
                     car1.StopCar(false, Vector3.zero);
                 }
 
@@ -206,13 +193,6 @@ public class Intersection : MonoBehaviour
 
         }
 
-    }
-    IEnumerator wait(GameObject vehicle)
-    {
-        yield return new WaitForSecondsRealtime(0.1f);
-        vehicle.GetComponent<MovingCarBehavior>().move = true;
-        //car.speed = Mathf.Lerp(car.speed, car.originalSpeed, 15);
-        vehicle.GetComponent<MovingCarBehavior>().StopCar(false, Vector3.zero);
     }
     IEnumerator SwitchLights()
     {

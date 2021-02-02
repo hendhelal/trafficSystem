@@ -154,7 +154,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 5
-  movementRotation: 1
   index: 0
   path: {fileID: 1666487600}
   stop: 0
@@ -287,7 +286,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0cdca25ceacf140b440a34511d114e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MovingForce: 0
   NoOfRays: 1
 --- !u!114 &2773848
 MonoBehaviour:
@@ -304,7 +302,6 @@ MonoBehaviour:
   roadPath: {fileID: 2017665251}
   currentwayPointIndex: 22
   speed: 20
-  maxSpeed: 0
   reachDistance: 1
   rotaionSpeed: 5
   move: 1
@@ -478,7 +475,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 5
-  movementRotation: 1
   index: 9
   path: {fileID: 1666487600}
   stop: 0
@@ -1255,7 +1251,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 5
-  movementRotation: 1
   index: 10
   path: {fileID: 1666487600}
   stop: 0
@@ -3038,7 +3033,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0cdca25ceacf140b440a34511d114e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MovingForce: 0
   NoOfRays: 1
 --- !u!114 &561517584
 MonoBehaviour:
@@ -3055,7 +3049,6 @@ MonoBehaviour:
   roadPath: {fileID: 1435879061}
   currentwayPointIndex: 17
   speed: 15
-  maxSpeed: 0
   reachDistance: 1
   rotaionSpeed: 5
   move: 1
@@ -3745,7 +3738,6 @@ MonoBehaviour:
   roadPath: {fileID: 1494301435}
   currentwayPointIndex: 8
   speed: 20
-  maxSpeed: 0
   reachDistance: 1
   rotaionSpeed: 5
   move: 1
@@ -3765,7 +3757,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0cdca25ceacf140b440a34511d114e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MovingForce: 0
   NoOfRays: 5
 --- !u!4 &778275765 stripped
 Transform:
@@ -3813,7 +3804,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0cdca25ceacf140b440a34511d114e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MovingForce: 0
   NoOfRays: 1
 --- !u!114 &779092064
 MonoBehaviour:
@@ -3830,7 +3820,6 @@ MonoBehaviour:
   roadPath: {fileID: 824009103}
   currentwayPointIndex: 8
   speed: 10
-  maxSpeed: 0
   reachDistance: 1
   rotaionSpeed: 5
   move: 1
@@ -4385,7 +4374,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 5
-  movementRotation: 1
   index: 3
   path: {fileID: 1666487600}
   stop: 0
@@ -4865,7 +4853,6 @@ MonoBehaviour:
   roadPath: {fileID: 1833595463}
   currentwayPointIndex: 3
   speed: 10
-  maxSpeed: 0
   reachDistance: 1
   rotaionSpeed: 15
   move: 1
@@ -4898,7 +4885,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0cdca25ceacf140b440a34511d114e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MovingForce: 0
   NoOfRays: 1
 --- !u!4 &1051908493 stripped
 Transform:
@@ -4998,13 +4984,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1054798831}
-  m_LocalRotation: {x: 0.45712903, y: -0, z: -0, w: 0.8894004}
-  m_LocalPosition: {x: 50.6, y: 59.8, z: -11.9}
+  m_LocalRotation: {x: 0.46140128, y: 0.008150555, z: -0.0042390665, w: 0.887144}
+  m_LocalPosition: {x: 44.8, y: 71.1, z: -11.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 54.404003, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 54.958004, y: 1.0530001, z: 0}
 --- !u!1 &1075997839
 GameObject:
   m_ObjectHideFlags: 0
@@ -6460,7 +6446,6 @@ MonoBehaviour:
   roadPath: {fileID: 1494301435}
   currentwayPointIndex: 12
   speed: 15
-  maxSpeed: 0
   reachDistance: 1
   rotaionSpeed: 5
   move: 1
@@ -6480,7 +6465,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0cdca25ceacf140b440a34511d114e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MovingForce: 0
   NoOfRays: 5
 --- !u!65 &1327173909
 BoxCollider:
@@ -7087,8 +7071,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 7.236327, y: 1, z: 31.938938}
-  m_Center: {x: 0.6196699, y: 0, z: -6.1882114}
+  m_Size: {x: 10.090535, y: 1, z: 31.938938}
+  m_Center: {x: 2.0467749, y: 0, z: -6.1882114}
 --- !u!4 &1480203019
 Transform:
   m_ObjectHideFlags: 0
@@ -7788,8 +7772,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 10.635879, y: 1, z: 21.747112}
-  m_Center: {x: 4.622657, y: 0, z: 4.8830976}
+  m_Size: {x: 10.635879, y: 1, z: 37.252617}
+  m_Center: {x: 4.622657, y: 0, z: 13.129144}
 --- !u!4 &1561137941
 Transform:
   m_ObjectHideFlags: 0
@@ -9025,7 +9009,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0cdca25ceacf140b440a34511d114e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MovingForce: 0
   NoOfRays: 1
 --- !u!114 &1924144077
 MonoBehaviour:
@@ -9042,7 +9025,6 @@ MonoBehaviour:
   roadPath: {fileID: 1435879061}
   currentwayPointIndex: 15
   speed: 20
-  maxSpeed: 0
   reachDistance: 1
   rotaionSpeed: 5
   move: 1
@@ -9193,7 +9175,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0cdca25ceacf140b440a34511d114e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MovingForce: 0
   NoOfRays: 1
 --- !u!114 &1948488386
 MonoBehaviour:
@@ -9210,7 +9191,6 @@ MonoBehaviour:
   roadPath: {fileID: 2017665251}
   currentwayPointIndex: 20
   speed: 15
-  maxSpeed: 0
   reachDistance: 1
   rotaionSpeed: 5
   move: 1
@@ -9354,7 +9334,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 5
-  movementRotation: 2
   index: 1
   path: {fileID: 1666487600}
   stop: 0
@@ -9443,7 +9422,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0cdca25ceacf140b440a34511d114e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MovingForce: 0
   NoOfRays: 1
 --- !u!114 &2009817869
 MonoBehaviour:
@@ -9460,7 +9438,6 @@ MonoBehaviour:
   roadPath: {fileID: 824009103}
   currentwayPointIndex: 18
   speed: 15
-  maxSpeed: 0
   reachDistance: 1
   rotaionSpeed: 5
   move: 1
@@ -9906,7 +9883,6 @@ MonoBehaviour:
   roadPath: {fileID: 1833595463}
   currentwayPointIndex: 0
   speed: 20
-  maxSpeed: 200
   reachDistance: 1
   rotaionSpeed: 15
   move: 1
@@ -9926,7 +9902,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0cdca25ceacf140b440a34511d114e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MovingForce: 0
   NoOfRays: 1
 --- !u!65 &2116080715
 BoxCollider:
@@ -10010,7 +9985,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 5
-  movementRotation: 2
   index: 10
   path: {fileID: 1666487600}
   stop: 0
@@ -10120,7 +10094,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2130333628
 Transform:
   m_ObjectHideFlags: 0
@@ -10130,7 +10104,7 @@ Transform:
   m_GameObject: {fileID: 2130333627}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 51.905968, y: 2.8, z: 46.488544}
-  m_LocalScale: {x: 1, y: 0.4206507, z: 1}
+  m_LocalScale: {x: 1, y: 0.4, z: 1}
   m_Children:
   - {fileID: 494203348}
   - {fileID: 1130089297}
